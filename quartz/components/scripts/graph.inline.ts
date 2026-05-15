@@ -596,22 +596,24 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   })
 
   const containers = [...document.getElementsByClassName("global-graph-outer")] as HTMLElement[]
-  async function renderGlobalGraph() {
-    const slug = getFullSlug(window)
-    for (const container of containers) {
-      container.classList.add("active")
-      const sidebar = container.closest(".sidebar") as HTMLElement
-      if (sidebar) {
-        sidebar.style.zIndex = "1"
-      }
+async function renderGlobalGraph() {
+  const slug = getFullSlug(window)
+  for (const container of containers) {
+    container.classList.add("active")
+    const sidebar = container.closest(".sidebar") as HTMLElement
+    if (sidebar) {
+      sidebar.style.zIndex = "1"
+    }
 
-      const graphContainer = container.querySelector(".global-graph-container") as HTMLElement
-      registerEscapeHandler(container, hideGlobalGraph)
-      if (graphContainer) {
-        globalGraphCleanups.push(await renderGraph(graphContainer, slug))
-      }
+    const graphContainer = container.querySelector(".global-graph-container") as HTMLElement
+    registerEscapeHandler(container, hideGlobalGraph)
+    if (graphContainer) {
+      // Wait for Chrome to finish layout after modal becomes active
+      await new Promise<void>(resolve => requestAnimationFrame(() => requestAnimationFrame(() => resolve())))
+      globalGraphCleanups.push(await renderGraph(graphContainer, slug))
     }
   }
+}
 
   function hideGlobalGraph() {
     cleanupGlobalGraphs()
