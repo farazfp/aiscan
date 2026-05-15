@@ -377,7 +377,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const label = new Text({
       interactive: false,
       eventMode: "none",
-      text: text: n.text.length > 30 ? n.text.substring(0, 28) + "…" : n.text,
+      text: n.text.length > 30 ? n.text.substring(0, 28) + "…" : n.text,
       alpha: 0,
       anchor: { x: 0.5, y: 1.2 },
       style: {
