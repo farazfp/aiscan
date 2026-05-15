@@ -1,7 +1,7 @@
 ---
 title: "Ethical Challenges and Solutions of Generative AI: An Interdisciplinary Perspective"
 authors:
-  - "Al-kfairy, Mousa , Dheya Mustafa, Nir Kshetri, Mazen Insiew"
+  - "Al-kfairy, Mousa, Dheya Mustafa, Nir Kshetri, Mazen Insiew"
   - "Omar Alfandi"
 year: "2024"
 domain: "AI and Social"
@@ -50,7 +50,7 @@ tags:
 
 # Ethical Challenges and Solutions of Generative AI: An Interdisciplinary Perspective
 
-**Al-kfairy, Mousa , Dheya Mustafa, Nir Kshetri, Mazen Insiew; Omar Alfandi** (2024)
+**Al-kfairy, Mousa, Dheya Mustafa, Nir Kshetri, Mazen Insiew; Omar Alfandi** (2024)
 
 *Informatics 11 (3): 58–58*
 

@@ -22,7 +22,7 @@ Aguiar, Micaela, and Sílvia Araújo. 2024. "Final Thoughts: Digital Humanities 
 
 Akter, S., McCarthy, G., Sajib, S., Michael, K., Dwivedi, Y. K., D’Ambra, J., & Shen, K. N. (2021). Algorithmic bias in data-driven innovation in the age of AI. International Journal of Information Management, 60, 102387. https://doi.org/10.1016/j.ijinfomgt.2021.102387
 
-Al-kfairy, Mousa , Dheya Mustafa, Nir Kshetri, Mazen Insiew, and Omar Alfandi. 2024. “Ethical Challenges and Solutions of Generative AI: An Interdisciplinary Perspective.” Informatics 11 (3): 58–58. https://doi.org/10.3390/informatics11030058
+Al-kfairy, Mousa, Dheya Mustafa, Nir Kshetri, Dheya Mustafa, Nir Kshetri, Mazen Insiew, and Omar Alfandi. 2024. “Ethical Challenges and Solutions of Generative AI: An Interdisciplinary Perspective.” Informatics 11 (3): 58–58. https://doi.org/10.3390/informatics11030058
 
 Alvarez, Jose M, Alejandra Bringas Colmenarejo, Alaa Elobaid, Simone Fabbrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, et al. 2024. “Policy Advice and Best Practices on Bias and Fairness in AI.” _Ethics and Information Technology_ 26 (2). https://doi.org/10.1007/s10676-024-09746-w
 
@@ -76,7 +76,7 @@ Broekhuizen, Thijs, Henri Dekker, Pedro De Faria, Sebastian Firk, Dinh Khoi Nguy
 
 Broussard, Meredith, ‘The Challenges of AI Preservation’, The American Historical Review, Volume 128, Issue 3, September 2023, Pages 1378-1381,https://doi.org/10.1093/ahr/rhad366
 
-Brown, Richard, November 2023, ‘The AI Generation: How universities Can Prepare Students for the Changing World’, DEMOS and University of London Report , https://demos.co.uk/wp-content/uploads/2023/11/The-AI-Generation-2.pdf
+Brown, Richard, November 2023, ‘The AI Generation: How universities Can Prepare Students for the Changing World’, DEMOS and University of London Report, https://demos.co.uk/wp-content/uploads/2023/11/The-AI-Generation- 2.pdf Bryant, https://demos.co.uk/wp-content/uploads/2023/11/The-AI-Generation-2.pdf
 
 Bryant, Rebecca. 2024. “Implementing an AI Reference Chatbot at the University of Calgary Library.” Hanging Together, December 12. https://hangingtogether.org/implementing-an-ai-reference-chatbot-at-the-university-of-calgary-library/
 
