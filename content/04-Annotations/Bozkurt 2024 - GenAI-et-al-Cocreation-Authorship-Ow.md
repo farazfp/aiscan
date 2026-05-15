@@ -1,6 +1,5 @@
 ---
-title: 'GenAI et al.: Cocreation, Authorship, Ownership, Academic Ethics and Integrity
-  in a Time of Generative AI'
+title: "GenAI et al.: Cocreation, Authorship, Ownership, Academic Ethics and Integrity' in a Time of Generative AI"
 authors:
 - Bozkurt, Aras
 year: '2024'
@@ -20,7 +19,7 @@ stakeholders:
 - researchers
 - developers
 source: 'Open Praxis 16 (1): 1–10'
-url: https://doi.org/10.55982/openpraxis.16.1.654
+url: "https://doi.org/10.55982/openpraxis.16.1.654"
 status: reviewed
 type: annotation
 created: '2026-05-14'

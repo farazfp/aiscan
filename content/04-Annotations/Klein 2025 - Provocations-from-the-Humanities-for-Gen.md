@@ -6,7 +6,7 @@ authors:
 - Mimno, D
 year: '2025'
 domain: Essential Contexts
-subdomain: Histories & Theories of AI
+subdomain: "Histories & Theories of AI"
 tensions:
 - Technical Capability vs Organizational Capacity
 concepts:
@@ -23,7 +23,7 @@ stakeholders:
 - publishers
 - industry
 source: Preprint
-url: https://arxiv.org/abs/2502.19190
+url: "https://arxiv.org/abs/2502.19190"
 status: reviewed
 type: annotation
 created: '2026-05-14'

@@ -5,7 +5,7 @@ authors:
 - Schäfer, M. S
 year: '2025'
 domain: Essential Contexts
-subdomain: Histories & Theories of AI
+subdomain: "Histories & Theories of AI"
 tensions:
 - Technical Capability vs Organizational Capacity
 - Efficiency vs Process
@@ -27,7 +27,7 @@ stakeholders:
 - industry
 - developers
 source: Computers in Human Behavior
-url: https://doi.org/10.1016/j.chb.2025.108682
+url: "https://doi.org/10.1016/j.chb.2025.108682"
 status: reviewed
 type: annotation
 created: '2026-05-14'

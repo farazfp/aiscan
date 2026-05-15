@@ -17,9 +17,8 @@ stakeholders:
 - researchers
 - publishers
 - industry
-source: 'KULA: Knowledge Creation, Dissemination, and Preservation Studies 7 (1):
-  1–11'
-url: https://doi.org/10.18357/kula.291
+source: "KULA: Knowledge Creation, Dissemination, and Preservation Studies 7 (1):' 1–11"
+url: "https://doi.org/10.18357/kula.291"
 status: reviewed
 type: annotation
 created: '2026-05-14'

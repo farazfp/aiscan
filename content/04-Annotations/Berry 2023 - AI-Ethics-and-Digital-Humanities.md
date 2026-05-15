@@ -19,7 +19,7 @@ methodologies:
 stakeholders:
 - developers
 source: In J
-url: https://recoveryhub.siue.edu/wp-content/uploads/2024/10/AI-Ethics-and-Digital-Humanities-.pdf
+url: "https://recoveryhub.siue.edu/wp-content/uploads/2024/10/AI-Ethics-and-Digital-Humanities-.pdf"
 status: reviewed
 type: annotation
 created: '2026-05-14'

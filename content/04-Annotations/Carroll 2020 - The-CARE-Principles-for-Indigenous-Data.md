@@ -28,7 +28,7 @@ methodologies:
 stakeholders:
 - institutions
 source: Data Science Journal 19, no
-url: https://doi.org/10.5334/dsj-2020-043
+url: "https://doi.org/10.5334/dsj-2020-043"
 status: reviewed
 type: annotation
 created: '2026-05-14'

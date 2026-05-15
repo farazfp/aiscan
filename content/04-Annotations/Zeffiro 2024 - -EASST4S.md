@@ -5,7 +5,7 @@ authors:
   imaginaries'
 year: '2024'
 domain: Essential Contexts
-subdomain: Histories & Theories of AI
+subdomain: "Histories & Theories of AI"
 tensions:
 - Technical Capability vs Organizational Capacity
 - Operational Assistance vs Epistemic Authority
@@ -26,7 +26,7 @@ stakeholders:
 - institutions
 - industry
 source: 'Stable link:'
-url: https://nomadit.co.uk/conference/easst-4s2024/p/14156
+url: "https://nomadit.co.uk/conference/easst-4s2024/p/14156"
 status: reviewed
 type: annotation
 created: '2026-05-14'

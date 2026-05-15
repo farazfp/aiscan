@@ -1,6 +1,5 @@
 ---
-title: 'Artificial Intelligence to Support Publishing and Peer Review: A Summary and
-  Review'
+title: "Artificial Intelligence to Support Publishing and Peer Review: A Summary and' Review"
 authors:
 - Kousha, Kayvan
 - Mike Thelwall
@@ -23,7 +22,7 @@ stakeholders:
 - publishers
 - communities
 source: 'Learned Publishing 37 (1): 4–12'
-url: https://doi.org/10.1002/leap.1570
+url: "https://doi.org/10.1002/leap.1570"
 status: reviewed
 type: annotation
 created: '2026-05-14'

@@ -1,12 +1,11 @@
 ---
-title: 'The Crisis of Artificial Intelligence: A New Digital Humanities Curriculum
-  for Human-Centred AI'
+title: "The Crisis of Artificial Intelligence: A New Digital Humanities Curriculum' for Human-Centred AI"
 authors:
 - Chun, J
 - Elkins, K
 year: '2023'
 domain: Essential Contexts
-subdomain: Histories & Theories of AI
+subdomain: "Histories & Theories of AI"
 tensions:
 - Operational Assistance vs Epistemic Authority
 - Technical Capability vs Organizational Capacity
@@ -25,7 +24,7 @@ stakeholders:
 - communities
 - developers
 source: International Journal of Humanities and Arts Computing
-url: https://doi.org/10.3366/ijhac.2023.0310
+url: "https://doi.org/10.3366/ijhac.2023.0310"
 status: reviewed
 type: annotation
 created: '2026-05-14'

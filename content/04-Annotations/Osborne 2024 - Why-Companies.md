@@ -21,7 +21,7 @@ stakeholders:
   - "researchers"
   - "industry"
   - "developers"
-source: "Democratise\"
+source: "Democratise"
 url: ""
 status: "reviewed"
 type: "annotation"

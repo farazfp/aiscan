@@ -1,6 +1,5 @@
 ---
-title: 'Shaping Integrity: Why Generative Artificial Intelligence Does Not Have to
-  Undermine Education'
+title: "Shaping Integrity: Why Generative Artificial Intelligence Does Not Have to' Undermine Education"
 authors:
 - Tan, Myles Joshua Toledo
 - NMAT Maravilla
@@ -26,7 +25,7 @@ stakeholders:
 - researchers
 - students
 source: 'Frontiers in Artificial Intelligence 7: 1471224'
-url: https://doi.org/10.3389/frai.2024.1471224
+url: "https://doi.org/10.3389/frai.2024.1471224"
 status: reviewed
 type: annotation
 created: '2026-05-14'

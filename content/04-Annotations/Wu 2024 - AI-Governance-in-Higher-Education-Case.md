@@ -20,8 +20,8 @@ stakeholders:
 - researchers
 - institutions
 - students
-source: arXiv preprint arXiv:2409
-url: https://doi.org/10.48550/arXiv.2409.02017
+source: "arXiv preprint arXiv:2409"
+url: "https://doi.org/10.48550/arXiv.2409.02017"
 status: reviewed
 type: annotation
 created: '2026-05-14'

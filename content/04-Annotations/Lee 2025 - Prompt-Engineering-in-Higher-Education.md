@@ -1,6 +1,5 @@
 ---
-title: 'Prompt Engineering in Higher Education: A Systematic Review to Help Inform
-  Curricula'
+title: "Prompt Engineering in Higher Education: A Systematic Review to Help Inform' Curricula"
 authors:
 - Lee, Daniel
 - Edward Palmer
@@ -24,7 +23,7 @@ stakeholders:
 - students
 - developers
 source: 'International Journal of Educational Technology in Higher Education 22: 16'
-url: https://doi.org/10.1186/s41239-025-00503-7
+url: "https://doi.org/10.1186/s41239-025-00503-7"
 status: reviewed
 type: annotation
 created: '2026-05-14'

@@ -1,11 +1,10 @@
 ---
-title: 'Synthetic Media and Computational Capitalism: Towards a Critical Theory of
-  Artificial Intelligence'
+title: "Synthetic Media and Computational Capitalism: Towards a Critical Theory of' Artificial Intelligence"
 authors:
 - Berry, David M
 year: '2025'
 domain: Essential Contexts
-subdomain: Histories & Theories of AI
+subdomain: "Histories & Theories of AI"
 tensions:
 - Technical Capability vs Organizational Capacity
 concepts:
@@ -21,7 +20,7 @@ methodologies:
 - theoretical
 stakeholders: []
 source: 'AI & Society 40: 5257–5269'
-url: https://doi.org/10.1007/s00146-025-02265-2
+url: "https://doi.org/10.1007/s00146-025-02265-2"
 status: reviewed
 type: annotation
 created: '2026-05-14'

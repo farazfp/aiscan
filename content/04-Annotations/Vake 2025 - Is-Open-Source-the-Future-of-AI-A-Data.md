@@ -16,7 +16,7 @@ methodologies:
 stakeholders:
 - communities
 source: Preprint
-url: https://arxiv.org/abs/2501.16403
+url: "https://arxiv.org/abs/2501.16403"
 status: reviewed
 type: annotation
 created: '2026-05-14'

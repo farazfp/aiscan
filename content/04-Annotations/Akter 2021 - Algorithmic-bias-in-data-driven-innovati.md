@@ -25,7 +25,7 @@ stakeholders:
 - institutions
 - developers
 source: International Journal of Information Management, 60, 102387
-url: https://doi.org/10.1016/j.ijinfomgt.2021.102387
+url: "https://doi.org/10.1016/j.ijinfomgt.2021.102387"
 status: reviewed
 type: annotation
 created: '2026-05-14'

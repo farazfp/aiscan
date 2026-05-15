@@ -14,8 +14,8 @@ concepts:
 methodologies: []
 stakeholders:
 - publishers
-source: Pop! Public
-url: https://doi.org/10.54590/pop.2021.006
+source: "Pop! Public"
+url: "https://doi.org/10.54590/pop.2021.006"
 status: reviewed
 type: annotation
 created: '2026-05-14'

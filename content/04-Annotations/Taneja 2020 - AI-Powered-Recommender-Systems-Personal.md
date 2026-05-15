@@ -23,7 +23,7 @@ methodologies:
 stakeholders:
 - researchers
 source: Turkish Journal of Computer and Mathematics Education (TURCOMAT) 11, no
-url: https://doi.org/10.61841/turcomat.v11i1.14406
+url: "https://doi.org/10.61841/turcomat.v11i1.14406"
 status: reviewed
 type: annotation
 created: '2026-05-14'

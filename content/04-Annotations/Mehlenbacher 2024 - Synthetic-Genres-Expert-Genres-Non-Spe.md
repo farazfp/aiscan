@@ -1,6 +1,5 @@
 ---
-title: 'Synthetic Genres: Expert Genres, Non-Specialist Audiences, and Misinformation
-  in the Artificial Intelligence Age'
+title: "Synthetic Genres: Expert Genres, Non-Specialist Audiences, and Misinformation' in the Artificial Intelligence Age"
 authors:
 - Mehlenbacher, Brad, Ana Patricia Balbon
 - Ashley Rose Mehlenbacher
@@ -24,7 +23,7 @@ methodologies:
 stakeholders:
 - researchers
 source: Journal of Technical Writing and Communication, January 31, 00472816231226249
-url: https://doi.org/10.1177/00472816231226249
+url: "https://doi.org/10.1177/00472816231226249"
 status: reviewed
 type: annotation
 created: '2026-05-14'

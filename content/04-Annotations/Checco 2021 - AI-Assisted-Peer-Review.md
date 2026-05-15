@@ -29,7 +29,7 @@ methodologies:
 stakeholders:
 - institutions
 source: 'Humanities and Social Sciences Communications 8: 25'
-url: https://doi.org/10.1038/s41599-020-00703-8
+url: "https://doi.org/10.1038/s41599-020-00703-8"
 status: reviewed
 type: annotation
 created: '2026-05-14'

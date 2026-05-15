@@ -26,7 +26,7 @@ stakeholders:
 - researchers
 - developers
 source: 'Scientometrics 60 (3): 1683-1706'
-url: https://doi.org/10.1007/s11192-025-05440-w
+url: "https://doi.org/10.1007/s11192-025-05440-w"
 status: reviewed
 type: annotation
 created: '2026-05-14'

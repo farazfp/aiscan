@@ -6,7 +6,7 @@ authors:
 - Technology 37, no. 2 (March 19
 year: '2024'
 domain: Essential Contexts
-subdomain: Histories & Theories of AI
+subdomain: "Histories & Theories of AI"
 tensions:
 - Operational Assistance vs Epistemic Authority
 concepts:
@@ -17,8 +17,8 @@ methodologies:
 - critical analysis
 stakeholders:
 - industry
-source: Philosophy & Technology 37, no
-url: https://doi.org/10.1007/s13347-024-00731-1
+source: "Philosophy & Technology 37, no"
+url: "https://doi.org/10.1007/s13347-024-00731-1"
 status: reviewed
 type: annotation
 created: '2026-05-14'

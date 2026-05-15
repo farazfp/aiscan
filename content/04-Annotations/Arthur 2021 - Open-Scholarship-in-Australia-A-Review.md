@@ -18,7 +18,7 @@ stakeholders:
 - researchers
 - communities
 source: Digital Scholarship in the Humanities, 36(4), 795–812
-url: https://doi.org/10.1093/llc/fqaa063
+url: "https://doi.org/10.1093/llc/fqaa063"
 status: reviewed
 type: annotation
 created: '2026-05-14'

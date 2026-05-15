@@ -4,7 +4,7 @@ authors:
 - Whiteley, Paul
 year: '2023'
 domain: Essential Contexts
-subdomain: Histories & Theories of AI
+subdomain: "Histories & Theories of AI"
 tensions: []
 concepts:
 - diversity
@@ -14,7 +14,7 @@ methodologies:
 stakeholders: []
 source: London School of Economics and Political Science Politics and Policy Blog,
   October 19
-url: https://blogs.lse.ac.uk/politicsandpolicy/why-artificial-intelligence-is-a-misnomer/
+url: "https://blogs.lse.ac.uk/politicsandpolicy/why-artificial-intelligence-is-a-misnomer/"
 status: reviewed
 type: annotation
 created: '2026-05-14'

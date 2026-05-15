@@ -5,7 +5,7 @@ authors:
 - Shmargaret Shmitchell
 year: '2021'
 domain: Essential Contexts
-subdomain: Histories & Theories of AI
+subdomain: "Histories & Theories of AI"
 tensions:
 - Technical Capability vs Organizational Capacity
 concepts:
@@ -23,7 +23,7 @@ stakeholders:
 - developers
 source: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency
   (New York, NY, USA), FAccT ’21, March 1, 610–23
-url: https://doi.org/10.1145/3442188.3445922
+url: "https://doi.org/10.1145/3442188.3445922"
 status: reviewed
 type: annotation
 created: '2026-05-14'

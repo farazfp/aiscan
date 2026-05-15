@@ -26,7 +26,7 @@ stakeholders:
 - institutions
 - publishers
 source: 'Research Integrity and Peer Review 8 (1): 15'
-url: https://doi.org/10.21203/rs.3.rs-2587766/v1
+url: "https://doi.org/10.21203/rs.3.rs-2587766/v1"
 status: reviewed
 type: annotation
 created: '2026-05-14'

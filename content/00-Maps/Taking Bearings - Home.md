@@ -35,15 +35,6 @@ tags:
 - [[Complete Alphabetical List of References]] — Full bibliography
 - [[Citation Index]] — Reverse index: which annotations are cited in which introduction sections
 
-### 📖 Introduction Sections (in `06-Introduction/`)
-- [[Introduction - Executive Summary]] · [[Introduction - Summative Overview]]
-- [[Introduction - Analytical Framework]] · [[Introduction - Four Cross-Cutting Tensions]]
-- [[Introduction - Histories of AI]] · [[Introduction - Geographic Diversity]]
-- [[Introduction - Knowledge Foundations]] · [[Introduction - Open Social Scholarship Principles]]
-- [[Introduction - AI and Open]] · [[Introduction - AI and Social]] · [[Introduction - AI and Scholarship]]
-- [[Introduction - Audiences and Impacts]] · [[Introduction - Phenomena and Inquiry]]
-- [[Introduction - Conceptual Mapping]] · [[Introduction - Conditions for Flourishing]]
-
 ### Explore by Structure
 - [[Conceptual Map]] — Thematic overview of concepts and relationships
 - [[Concepts Glossary]] — Comprehensive glossary of all key concepts

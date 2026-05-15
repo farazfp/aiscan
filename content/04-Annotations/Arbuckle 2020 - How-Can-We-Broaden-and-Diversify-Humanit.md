@@ -13,8 +13,8 @@ methodologies: []
 stakeholders:
 - researchers
 - communities
-source: Pop! Public
-url: https://doi.org/10.48404/pop.2020.12
+source: "Pop! Public"
+url: "https://doi.org/10.48404/pop.2020.12"
 status: reviewed
 type: annotation
 created: '2026-05-14'

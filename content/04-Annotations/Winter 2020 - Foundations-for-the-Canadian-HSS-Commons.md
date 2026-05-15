@@ -1,6 +1,5 @@
 ---
-title: 'Foundations for the Canadian HSS Commons: Exploring the Possibilities of Digital
-  Research Communities'
+title: "Foundations for the Canadian HSS Commons: Exploring the Possibilities of Digital' Research Communities"
 authors:
 - Winter, C., et al., with ETCL
 - INKE
@@ -15,8 +14,8 @@ concepts:
 - commons
 methodologies: []
 stakeholders: []
-source: Pop! Public
-url: https://doi.org/10.48404/pop.2020.05
+source: "Pop! Public"
+url: "https://doi.org/10.48404/pop.2020.05"
 status: reviewed
 type: annotation
 created: '2026-05-14'

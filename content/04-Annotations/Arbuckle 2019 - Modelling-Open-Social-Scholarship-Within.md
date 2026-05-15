@@ -20,9 +20,8 @@ methodologies:
 stakeholders:
 - researchers
 - communities
-source: 'KULA: Knowledge Creation, Dissemination, and Preservation Studies, 3(1),
-  1–8'
-url: https://doi.org/10.5334/kula.15
+source: "KULA: Knowledge Creation, Dissemination, and Preservation Studies, 3(1),' 1–8"
+url: "https://doi.org/10.5334/kula.15"
 status: reviewed
 type: annotation
 created: '2026-05-14'

@@ -1,6 +1,5 @@
 ---
-title: 'Responsible Governance of Generative AI: Conceptualizing GenAI as Complex
-  Adaptive Systems'
+title: "Responsible Governance of Generative AI: Conceptualizing GenAI as Complex' Adaptive Systems"
 authors:
 - Janssen, Marijn
 year: '2025'
@@ -24,7 +23,7 @@ stakeholders:
 - institutions
 - communities
 source: 'Policy and Society 44 (1): 38–51'
-url: https://doi.org/10.1093/polsoc/puae040
+url: "https://doi.org/10.1093/polsoc/puae040"
 status: reviewed
 type: annotation
 created: '2026-05-14'

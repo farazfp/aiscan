@@ -25,7 +25,7 @@ stakeholders:
 - researchers
 - institutions
 source: 'Information Systems Frontiers 25: 1549–1569'
-url: https://doi.org/10.1007/s10796-022-10297-y
+url: "https://doi.org/10.1007/s10796-022-10297-y"
 status: reviewed
 type: annotation
 created: '2026-05-14'

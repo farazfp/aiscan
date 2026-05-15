@@ -21,7 +21,7 @@ methodologies:
 stakeholders:
 - communities
 source: 'Scientific Data 8: 108'
-url: https://doi.org/10.1038/s41597-021-00892-0
+url: "https://doi.org/10.1038/s41597-021-00892-0"
 status: reviewed
 type: annotation
 created: '2026-05-14'

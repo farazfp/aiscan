@@ -18,7 +18,7 @@ stakeholders:
 - researchers
 - communities
 source: Journal of Electronic Publishing, 25(2)
-url: https://doi.org/10.3998/jep.1973
+url: "https://doi.org/10.3998/jep.1973"
 status: reviewed
 type: annotation
 created: '2026-05-14'

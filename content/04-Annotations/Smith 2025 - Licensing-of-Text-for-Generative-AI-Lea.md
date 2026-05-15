@@ -28,7 +28,7 @@ stakeholders:
 - policymakers
 - developers
 source: 'The Columbia Journal of Law & the Arts 48 (4): 457–512'
-url: https://doi.org/10.52214/jla.v48i4.13926
+url: "https://doi.org/10.52214/jla.v48i4.13926"
 status: reviewed
 type: annotation
 created: '2026-05-14'

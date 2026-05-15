@@ -1,6 +1,5 @@
 ---
-title: 'ChatGPT in the Classroom: Evaluating Its Role in Fostering Critical Evaluation
-  Skills'
+title: "ChatGPT in the Classroom: Evaluating Its Role in Fostering Critical Evaluation' Skills"
 authors:
 - Oates, A
 - D. Johnson
@@ -26,7 +25,7 @@ stakeholders:
 - researchers
 - students
 source: 'International Journal of Artificial Intelligence in Education 35 (3): 754–776'
-url: https://doi.org/10.1007/s40593-024-00452-8
+url: "https://doi.org/10.1007/s40593-024-00452-8"
 status: reviewed
 type: annotation
 created: '2026-05-14'

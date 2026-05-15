@@ -21,7 +21,7 @@ stakeholders:
 - communities
 - industry
 source: The Review
-url: https://www.chronicle.com/article/the-corporate-capture-of-open-access-publishing
+url: "https://www.chronicle.com/article/the-corporate-capture-of-open-access-publishing"
 status: reviewed
 type: annotation
 created: '2026-05-14'

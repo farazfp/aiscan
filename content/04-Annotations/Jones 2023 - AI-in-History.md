@@ -5,7 +5,7 @@ authors:
   Issue 3, September
 year: '2023'
 domain: Essential Contexts
-subdomain: Histories & Theories of AI
+subdomain: "Histories & Theories of AI"
 tensions: []
 concepts:
 - machine learning
@@ -17,7 +17,7 @@ methodologies:
 stakeholders: []
 source: The American Historical Review, Volume 128, Issue 3, September 2023, pages
   1360-1367
-url: https://doi.org/10.1093/ahr/rhad361
+url: "https://doi.org/10.1093/ahr/rhad361"
 status: reviewed
 type: annotation
 created: '2026-05-14'

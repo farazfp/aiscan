@@ -19,7 +19,7 @@ methodologies:
 stakeholders:
 - developers
 source: 'Stockholm IP Law Review 6 (1): 109–138'
-url: https://doi.org/10.53292/33313cc8.be33e111
+url: "https://doi.org/10.53292/33313cc8.be33e111"
 status: reviewed
 type: annotation
 created: '2026-05-14'

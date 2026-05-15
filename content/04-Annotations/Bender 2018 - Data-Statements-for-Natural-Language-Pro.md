@@ -1,6 +1,5 @@
 ---
-title: 'Data Statements for Natural Language Processing: Toward Mitigating System
-  Bias and Enabling Better Science'
+title: "Data Statements for Natural Language Processing: Toward Mitigating System' Bias and Enabling Better Science"
 authors:
 - Bender, Emily M
 - Batya Friedman
@@ -24,7 +23,7 @@ stakeholders:
 - industry
 - developers
 source: 'Transactions of the Association for Computational Linguistics 6: 587–604'
-url: https://doi.org/10.1162/tacl_a_00041
+url: "https://doi.org/10.1162/tacl_a_00041"
 status: reviewed
 type: annotation
 created: '2026-05-14'

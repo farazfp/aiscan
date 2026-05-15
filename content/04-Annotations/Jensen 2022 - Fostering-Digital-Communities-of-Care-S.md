@@ -1,6 +1,5 @@
 ---
-title: 'Fostering Digital Communities of Care: Safety, Security, and Trust in the
-  Canadian HSS Commons'
+title: "Fostering Digital Communities of Care: Safety, Security, and Trust in the' Canadian HSS Commons"
 authors:
 - Jensen, G., et al
 year: '2022'
@@ -14,7 +13,7 @@ methodologies:
 - design research
 stakeholders: []
 source: IDEAH 3(2)
-url: https://ideah.pubpub.org/pub/h7927ugt
+url: "https://ideah.pubpub.org/pub/h7927ugt"
 status: reviewed
 type: annotation
 created: '2026-05-14'

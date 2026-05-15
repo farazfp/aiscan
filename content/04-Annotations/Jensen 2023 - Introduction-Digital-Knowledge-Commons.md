@@ -1,6 +1,5 @@
 ---
-title: 'Introduction: Digital Knowledge Commons, Scholarly Connection, and the Evolution
-  of Open Scholarship'
+title: "Introduction: Digital Knowledge Commons, Scholarly Connection, and the Evolution' of Open Scholarship"
 authors:
 - Jensen, G
 year: '2023'
@@ -16,7 +15,7 @@ stakeholders:
 - researchers
 - communities
 source: 'Open Scholarship Press Curated Volume: Connection'
-url: https://doi.org/10.21428/47bc126e.0ca461a4
+url: "https://doi.org/10.21428/47bc126e.0ca461a4"
 status: reviewed
 type: annotation
 created: '2026-05-14'

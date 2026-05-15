@@ -1,6 +1,5 @@
 ---
-title: 'A sociotechnical perspective for the future of AI: narratives, inequalities,
-  and human control'
+title: "A sociotechnical perspective for the future of AI: narratives, inequalities,' and human control"
 authors:
 - Sartori, L
 - Theodorou, A
@@ -27,7 +26,7 @@ stakeholders:
 - institutions
 - communities
 source: Ethics and Information Technology, 24(1), 4
-url: https://doi.org/10.1007/s10676-022-09624-3
+url: "https://doi.org/10.1007/s10676-022-09624-3"
 status: reviewed
 type: annotation
 created: '2026-05-14'

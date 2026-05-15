@@ -16,8 +16,8 @@ concepts:
 methodologies: []
 stakeholders:
 - communities
-source: Pop! Public
-url: https://doi.org/10.48404/pop.2020.02
+source: "Pop! Public"
+url: "https://doi.org/10.48404/pop.2020.02"
 status: reviewed
 type: annotation
 created: '2026-05-14'

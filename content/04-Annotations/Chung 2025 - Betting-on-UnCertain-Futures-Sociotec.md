@@ -1,11 +1,10 @@
 ---
-title: 'Betting on (Un)Certain Futures: Sociotechnical Imaginaries of AI and Varieties
-  of Techno-Developmentalism in Asia'
+title: "Betting on (Un)Certain Futures: Sociotechnical Imaginaries of AI and Varieties' of Techno-Developmentalism in Asia"
 authors:
 - Chung, Hiu-Fung
 year: '2025'
 domain: Essential Contexts
-subdomain: Histories & Theories of AI
+subdomain: "Histories & Theories of AI"
 tensions:
 - Technical Capability vs Organizational Capacity
 concepts:
@@ -22,8 +21,8 @@ methodologies:
 stakeholders:
 - researchers
 - institutions
-source: Information, Communication & Society, July, 1–18
-url: https://doi.org/10.1080/1369118X.2025.2535427
+source: "Information, Communication & Society, July, 1–18"
+url: "https://doi.org/10.1080/1369118X.2025.2535427"
 status: reviewed
 type: annotation
 created: '2026-05-14'

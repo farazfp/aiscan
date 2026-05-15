@@ -29,7 +29,7 @@ stakeholders:
 - industry
 - developers
 source: Ithaka S+R
-url: https://doi.org/10.18665/sr.321519
+url: "https://doi.org/10.18665/sr.321519"
 status: reviewed
 type: annotation
 created: '2026-05-14'

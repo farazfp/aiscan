@@ -33,7 +33,7 @@ stakeholders:
 - communities
 - industry
 source: arXiv (July 16, 2024)
-url: https://doi.org/10.48550/arXiv.2405.11612
+url: "https://doi.org/10.48550/arXiv.2405.11612"
 status: reviewed
 type: annotation
 created: '2026-05-14'

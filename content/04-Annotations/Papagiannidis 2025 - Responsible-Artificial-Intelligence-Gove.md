@@ -29,7 +29,7 @@ stakeholders:
 - publishers
 - policymakers
 source: 'The Journal of Strategic Information Systems 34 (2): 101885'
-url: https://doi.org/10.1016/j.jsis.2024.101885
+url: "https://doi.org/10.1016/j.jsis.2024.101885"
 status: reviewed
 type: annotation
 created: '2026-05-14'

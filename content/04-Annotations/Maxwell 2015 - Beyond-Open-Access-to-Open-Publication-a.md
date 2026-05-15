@@ -16,7 +16,7 @@ methodologies:
 stakeholders:
 - communities
 source: Scholarly and Research Communication, 6(3), 1–10
-url: https://doi.org/10.22230/src.2015v6n3a202
+url: "https://doi.org/10.22230/src.2015v6n3a202"
 status: reviewed
 type: annotation
 created: '2026-05-14'

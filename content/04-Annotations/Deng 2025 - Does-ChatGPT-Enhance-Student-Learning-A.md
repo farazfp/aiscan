@@ -21,7 +21,7 @@ stakeholders:
 - researchers
 - students
 source: 'Computers & Education 227: 105224'
-url: https://doi.org/10.1016/j.compedu.2024.105224
+url: "https://doi.org/10.1016/j.compedu.2024.105224"
 status: reviewed
 type: annotation
 created: '2026-05-14'

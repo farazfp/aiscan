@@ -24,7 +24,7 @@ methodologies:
 stakeholders:
 - developers
 source: Proceedings of the ACM on Human-Computer Interaction 5, no
-url: https://doi.org/10.1145/3479582
+url: "https://doi.org/10.1145/3479582"
 status: reviewed
 type: annotation
 created: '2026-05-14'

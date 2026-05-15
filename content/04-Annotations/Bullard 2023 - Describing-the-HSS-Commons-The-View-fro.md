@@ -13,8 +13,8 @@ concepts:
 - interoperability
 methodologies: []
 stakeholders: []
-source: Pop! Public
-url: https://doi.org/10.54590/pop.2023.004
+source: "Pop! Public"
+url: "https://doi.org/10.54590/pop.2023.004"
 status: reviewed
 type: annotation
 created: '2026-05-14'

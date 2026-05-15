@@ -1,6 +1,5 @@
 ---
-title: 'The Model Openness Framework: Promoting Completeness and Openness for Reproducibility,
-  Transparency, and Usability in AI. arXiv preprint arXiv:2403.13784'
+title: "The Model Openness Framework: Promoting Completeness and Openness for Reproducibility,' Transparency, and Usability in AI. arXiv preprint arXiv:2403.13784"
 authors:
 - White, M., Haddad, I., Osborne, C., Liu, X., Abdelmonsef, A., Varghese, S
 - Le Hors, A
