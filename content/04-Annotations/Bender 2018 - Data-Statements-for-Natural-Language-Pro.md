@@ -1,4 +1,5 @@
 ---
+
 title: "Data Statements for Natural Language Processing: Toward Mitigating System' Bias and Enabling Better Science"
 authors:
 - Bender, Emily M
@@ -28,22 +29,22 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-open
-- open-data
-- method/case-study
-- method/design-research
-- topic/bias
-- topic/diversity
-- topic/infrastructure
-- topic/metadata
-- topic/curation
-- topic/natural-language-processing
-- stakeholder/communities
-- stakeholder/industry
-- stakeholder/developers
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - ai-and-open
+  - open-data
+  - method-case-study
+  - method-design-research
+  - topic-bias
+  - topic-diversity
+  - topic-infrastructure
+  - topic-metadata
+  - topic-curation
+  - topic-natural-language-processing
+  - stakeholder-communities
+  - stakeholder-industry
+  - stakeholder-developers
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science

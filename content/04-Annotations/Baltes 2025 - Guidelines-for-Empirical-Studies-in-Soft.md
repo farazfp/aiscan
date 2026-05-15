@@ -26,20 +26,20 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-science"
-  - "method/framework-development"
-  - "method/empirical"
-  - "topic/large-language-models"
-  - "topic/open-science"
-  - "topic/trust"
-  - "topic/accessibility"
-  - "topic/reproducibility"
-  - "stakeholder/researchers"
-  - "stakeholder/publishers"
-  - "stakeholder/developers"
-  - "tension/efficiency-v-process"
+  - annotation
+  - ai-and-open
+  - open-science
+  - method-framework-development
+  - method-empirical
+  - topic-large-language-models
+  - topic-open-science
+  - topic-trust
+  - topic-accessibility
+  - topic-reproducibility
+  - stakeholder-researchers
+  - stakeholder-publishers
+  - stakeholder-developers
+  - tension-efficiency-v-process
 ---
 
 # Guidelines for Empirical Studies in Software Engineering Involving Large Language Models

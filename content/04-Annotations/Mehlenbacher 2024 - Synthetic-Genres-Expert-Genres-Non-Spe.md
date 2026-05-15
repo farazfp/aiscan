@@ -1,4 +1,5 @@
 ---
+
 title: "Synthetic Genres: Expert Genres, Non-Specialist Audiences, and Misinformation' in the Artificial Intelligence Age"
 authors:
 - Mehlenbacher, Brad, Ana Patricia Balbon
@@ -28,21 +29,21 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-scholarship
-- forms-of-research-output
-- method/quantitative
-- method/theoretical
-- topic/misinformation
-- topic/epistemic-authority
-- topic/large-language-models
-- topic/diversity
-- topic/interoperability
-- topic/curation
-- stakeholder/researchers
-- tension/operational-assistance-v-epistemic-authority
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - forms-of-research-output
+  - method-quantitative
+  - method-theoretical
+  - topic-misinformation
+  - topic-epistemic-authority
+  - topic-large-language-models
+  - topic-diversity
+  - topic-interoperability
+  - topic-curation
+  - stakeholder-researchers
+  - tension-operational-assistance-v-epistemic-authority
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # Synthetic Genres: Expert Genres, Non-Specialist Audiences, and Misinformation in the Artificial Intelligence Age

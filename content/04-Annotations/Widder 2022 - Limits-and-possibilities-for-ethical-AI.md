@@ -28,21 +28,21 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-source"
-  - "method/case-study"
-  - "method/qualitative"
-  - "method/framework-development"
-  - "method/design-research"
-  - "topic/open-source"
-  - "topic/ai-ethics"
-  - "topic/accountability"
-  - "topic/transparency"
-  - "topic/misinformation"
-  - "stakeholder/researchers"
-  - "stakeholder/communities"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-open
+  - open-source
+  - method-case-study
+  - method-qualitative
+  - method-framework-development
+  - method-design-research
+  - topic-open-source
+  - topic-ai-ethics
+  - topic-accountability
+  - topic-transparency
+  - topic-misinformation
+  - stakeholder-researchers
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Limits and possibilities for “ethical AI

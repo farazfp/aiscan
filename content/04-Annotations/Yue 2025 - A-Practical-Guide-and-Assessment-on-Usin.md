@@ -25,19 +25,19 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "research-methods-and-practices"
-  - "method/qualitative"
-  - "method/quantitative"
-  - "method/theoretical"
-  - "method/design-research"
-  - "topic/large-language-models"
-  - "topic/generative-ai"
-  - "topic/diversity"
-  - "stakeholder/researchers"
-  - "region/asia"
-  - "tension/efficiency-v-process"
+  - annotation
+  - ai-and-scholarship
+  - research-methods-and-practices
+  - method-qualitative
+  - method-quantitative
+  - method-theoretical
+  - method-design-research
+  - topic-large-language-models
+  - topic-generative-ai
+  - topic-diversity
+  - stakeholder-researchers
+  - region-asia
+  - tension-efficiency-v-process
 ---
 
 # A Practical Guide and Assessment on Using ChatGPT to Conduct Grounded Theory Studies: Step-by-Step Reporting of the Data Analysis Process

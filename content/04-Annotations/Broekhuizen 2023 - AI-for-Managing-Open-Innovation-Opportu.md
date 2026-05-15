@@ -22,15 +22,15 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "governance-leadership-and-policy"
-  - "method/framework-development"
-  - "topic/intellectual-property"
-  - "topic/surveillance"
-  - "topic/evaluation"
-  - "stakeholder/industry"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - governance-leadership-and-policy
+  - method-framework-development
+  - topic-intellectual-property
+  - topic-surveillance
+  - topic-evaluation
+  - stakeholder-industry
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # AI for Managing Open Innovation: Opportunities, Challenges, and a Research Agenda

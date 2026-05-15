@@ -1,4 +1,5 @@
 ---
+
 title: The Corporate Capture of Open-Access Publishing
 authors:
 - Kember, Sarah
@@ -26,21 +27,21 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-open
-- open-access
-- method/framework-development
-- topic/scholarly-communication
-- topic/open-access
-- topic/accessibility
-- topic/infrastructure
-- stakeholder/researchers
-- stakeholder/institutions
-- stakeholder/publishers
-- stakeholder/communities
-- stakeholder/industry
-- region/global
-- cited-in-introduction
+  - annotation
+  - ai-and-open
+  - open-access
+  - method-framework-development
+  - topic-scholarly-communication
+  - topic-open-access
+  - topic-accessibility
+  - topic-infrastructure
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-publishers
+  - stakeholder-communities
+  - stakeholder-industry
+  - region-global
+  - cited-in-introduction
 ---
 
 # The Corporate Capture of Open-Access Publishing

@@ -22,15 +22,15 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-source"
-  - "method/quantitative"
-  - "method/framework-development"
-  - "topic/intellectual-property"
-  - "topic/large-language-models"
-  - "stakeholder/institutions"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-open
+  - open-source
+  - method-quantitative
+  - method-framework-development
+  - topic-intellectual-property
+  - topic-large-language-models
+  - stakeholder-institutions
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Copyleft for Alleviating AIGC Copyright Dilemma: What-if Analysis, Public Perception and Implications

@@ -1,4 +1,5 @@
 ---
+
 title: AI in History,
 authors:
 - Jones, Matthew L., “AI in History,” The American Historical Review, Volume 128,
@@ -22,15 +23,15 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- histories-and-theories-of-ai
-- method/computational
-- method/comparative
-- topic/machine-learning
-- topic/bias
-- topic/labour
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - histories-and-theories-of-ai
+  - method-computational
+  - method-comparative
+  - topic-machine-learning
+  - topic-bias
+  - topic-labour
+  - cited-in-introduction
 ---
 
 # AI in History,

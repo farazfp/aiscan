@@ -1,4 +1,5 @@
 ---
+
 title: 'Responsible Artificial Intelligence Governance: A Review and Research Framework'
 authors:
 - Papagiannidis, Emmanouil, Patrick Mikalef
@@ -34,26 +35,26 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-scholarship
-- infrastructures
-- method/literature-review
-- method/framework-development
-- method/theoretical
-- method/design-research
-- topic/governance
-- topic/interoperability
-- topic/ai-ethics
-- topic/infrastructure
-- topic/ai-governance
-- topic/accountability
-- stakeholder/institutions
-- stakeholder/publishers
-- stakeholder/policymakers
-- tension/technical-capability-v-organizational-capacity
-- tension/operational-assistance-v-epistemic-authority
-- tension/efficiency-v-process
-- cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - method-literature-review
+  - method-framework-development
+  - method-theoretical
+  - method-design-research
+  - topic-governance
+  - topic-interoperability
+  - topic-ai-ethics
+  - topic-infrastructure
+  - topic-ai-governance
+  - topic-accountability
+  - stakeholder-institutions
+  - stakeholder-publishers
+  - stakeholder-policymakers
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
+  - tension-efficiency-v-process
+  - cited-in-introduction
 ---
 
 # Responsible Artificial Intelligence Governance: A Review and Research Framework

@@ -28,20 +28,20 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-science"
-  - "method/framework-development"
-  - "topic/large-language-models"
-  - "topic/open-science"
-  - "topic/generative-ai"
-  - "topic/transparency"
-  - "topic/labour"
-  - "topic/accessibility"
-  - "stakeholder/researchers"
-  - "stakeholder/institutions"
-  - "stakeholder/communities"
-  - "stakeholder/developers"
+  - annotation
+  - ai-and-open
+  - open-science
+  - method-framework-development
+  - topic-large-language-models
+  - topic-open-science
+  - topic-generative-ai
+  - topic-transparency
+  - topic-labour
+  - topic-accessibility
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-communities
+  - stakeholder-developers
 ---
 
 # EleutherAI: Going Beyond 'Open Science' to 'Science in the Open.'

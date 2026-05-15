@@ -4,10 +4,10 @@ type: "glossary"
 total_concepts: 55
 created: "2026-05-14"
 tags:
-  - "glossary"
-  - "concepts"
-  - "reference"
-  - "MOC"
+  - glossary
+  - concepts
+  - reference
+  - moc
 ---
 
 # 📖 Concepts Glossary

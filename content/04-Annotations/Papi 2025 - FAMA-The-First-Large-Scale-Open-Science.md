@@ -24,16 +24,16 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-science"
-  - "method/case-study"
-  - "method/framework-development"
-  - "topic/large-language-models"
-  - "topic/open-science"
-  - "topic/open-source"
-  - "topic/training-data"
-  - "tension/openness-v-enclosure"
+  - annotation
+  - ai-and-open
+  - open-science
+  - method-case-study
+  - method-framework-development
+  - topic-large-language-models
+  - topic-open-science
+  - topic-open-source
+  - topic-training-data
+  - tension-openness-v-enclosure
 ---
 
 # FAMA: The First Large-Scale Open-Science Speech Foundation Model for English and Italian

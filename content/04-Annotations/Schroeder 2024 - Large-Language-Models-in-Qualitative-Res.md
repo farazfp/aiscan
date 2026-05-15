@@ -31,24 +31,24 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "research-methods-and-practices"
-  - "method/qualitative"
-  - "method/quantitative"
-  - "method/framework-development"
-  - "method/design-research"
-  - "topic/large-language-models"
-  - "topic/automation"
-  - "topic/transparency"
-  - "topic/consent"
-  - "topic/bias"
-  - "stakeholder/researchers"
-  - "stakeholder/publishers"
-  - "stakeholder/communities"
-  - "tension/efficiency-v-process"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-scholarship
+  - research-methods-and-practices
+  - method-qualitative
+  - method-quantitative
+  - method-framework-development
+  - method-design-research
+  - topic-large-language-models
+  - topic-automation
+  - topic-transparency
+  - topic-consent
+  - topic-bias
+  - stakeholder-researchers
+  - stakeholder-publishers
+  - stakeholder-communities
+  - tension-efficiency-v-process
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Large Language Models in Qualitative Research: Uses, Tensions, and Intentions

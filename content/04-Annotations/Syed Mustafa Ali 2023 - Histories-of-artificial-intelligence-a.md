@@ -1,4 +1,5 @@
 ---
+
 title: "Histories of artificial intelligence: a genealogy of power"
 authors:
   - "Syed Mustafa Ali, Stephanie Dick, Sarah Dillon, Matthew L. Jones, Jonnie Penn"
@@ -23,17 +24,16 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-- cited-in-introduction
-  - "annotation"
-  - "essential-contexts"
-  - "histories-and-theories-of-ai"
-  - "method/critical-analysis"
-  - "topic/diversity"
-  - "topic/decolonization"
-  - "topic/labour"
-  - "stakeholder/researchers"
-  - "stakeholder/publishers"
-  - "region/global-north"
+  - cited-in-introduction
+  - annotation
+  - essential-contexts
+  - histories-and-theories-of-ai
+  - method-critical-analysis
+  - topic-diversity
+  - topic-decolonization
+  - topic-labour
+  - stakeholder-researchers
+  - stakeholder-publishers
 ---
 
 # Histories of artificial intelligence: a genealogy of power

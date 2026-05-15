@@ -26,19 +26,19 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-source"
-  - "method/framework-development"
-  - "method/design-research"
-  - "topic/open-source"
-  - "topic/training-data"
-  - "topic/generative-ai"
-  - "topic/intellectual-property"
-  - "stakeholder/policymakers"
-  - "stakeholder/communities"
-  - "stakeholder/developers"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-open
+  - open-source
+  - method-framework-development
+  - method-design-research
+  - topic-open-source
+  - topic-training-data
+  - topic-generative-ai
+  - topic-intellectual-property
+  - stakeholder-policymakers
+  - stakeholder-communities
+  - stakeholder-developers
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # The Case for Contextual Copyleft: Licensing Open Source Training Data and Generative AI

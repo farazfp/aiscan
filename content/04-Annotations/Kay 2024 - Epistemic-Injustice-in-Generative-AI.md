@@ -29,20 +29,20 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "diversity-determinism-bias-and-justice"
-  - "method/computational"
-  - "method/design-research"
-  - "topic/epistemic-authority"
-  - "topic/epistemic-justice"
-  - "topic/generative-ai"
-  - "topic/bias"
-  - "topic/hallucination"
-  - "topic/equity"
-  - "stakeholder/publishers"
-  - "stakeholder/developers"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-social
+  - diversity-determinism-bias-and-justice
+  - method-computational
+  - method-design-research
+  - topic-epistemic-authority
+  - topic-epistemic-justice
+  - topic-generative-ai
+  - topic-bias
+  - topic-hallucination
+  - topic-equity
+  - stakeholder-publishers
+  - stakeholder-developers
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Epistemic Injustice in Generative AI

@@ -1,4 +1,5 @@
 ---
+
 title: Is Open Source the Future of AI? A Data‑Driven Approach
 authors:
 - Vake, D., Šinik, B., Vičič, J
@@ -21,15 +22,15 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- past-relation-to-oss-aligned-communities
-- method/framework-development
-- topic/open-source
-- topic/large-language-models
-- topic/intellectual-property
-- stakeholder/communities
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - past-relation-to-oss-aligned-communities
+  - method-framework-development
+  - topic-open-source
+  - topic-large-language-models
+  - topic-intellectual-property
+  - stakeholder-communities
+  - cited-in-introduction
 ---
 
 # Is Open Source the Future of AI? A Data‑Driven Approach

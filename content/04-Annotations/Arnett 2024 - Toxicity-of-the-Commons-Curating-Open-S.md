@@ -30,20 +30,20 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "research-methods-and-practices"
-  - "method/framework-development"
-  - "method/design-research"
-  - "topic/open-source"
-  - "topic/curation"
-  - "topic/large-language-models"
-  - "topic/open-data"
-  - "topic/bias"
-  - "topic/interoperability"
-  - "stakeholder/communities"
-  - "tension/openness-v-enclosure"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - research-methods-and-practices
+  - method-framework-development
+  - method-design-research
+  - topic-open-source
+  - topic-curation
+  - topic-large-language-models
+  - topic-open-data
+  - topic-bias
+  - topic-interoperability
+  - stakeholder-communities
+  - tension-openness-v-enclosure
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Toxicity of the Commons: Curating Open-Source Pre-Training Data

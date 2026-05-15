@@ -26,18 +26,18 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "governance-leadership-and-policy"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/critical-analysis"
-  - "topic/transparency"
-  - "topic/diversity"
-  - "topic/equity"
-  - "topic/participation"
-  - "stakeholder/publishers"
-  - "stakeholder/communities"
+  - annotation
+  - ai-and-social
+  - governance-leadership-and-policy
+  - method-computational
+  - method-framework-development
+  - method-critical-analysis
+  - topic-transparency
+  - topic-diversity
+  - topic-equity
+  - topic-participation
+  - stakeholder-publishers
+  - stakeholder-communities
 ---
 
 # Does Algorithmic Content Moderation Promote Democratic Discourse? Radical Democratic Critique of Toxic Language AI

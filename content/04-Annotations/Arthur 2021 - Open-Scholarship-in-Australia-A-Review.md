@@ -1,4 +1,5 @@
 ---
+
 title: 'Open Scholarship in Australia: A Review of Needs, Barriers, and Opportunities'
 authors:
 - Arthur, P. L., Hearn, L., Montgomery, L., Craig, H., Arbuckle, A
@@ -23,17 +24,17 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- open-social-scholarship
-- topic/infrastructure
-- topic/open-scholarship
-- topic/reproducibility
-- topic/evaluation
-- stakeholder/researchers
-- stakeholder/communities
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - open-social-scholarship
+  - topic-infrastructure
+  - topic-open-scholarship
+  - topic-reproducibility
+  - topic-evaluation
+  - stakeholder-researchers
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # Open Scholarship in Australia: A Review of Needs, Barriers, and Opportunities

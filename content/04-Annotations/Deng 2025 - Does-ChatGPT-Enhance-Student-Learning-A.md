@@ -1,4 +1,5 @@
 ---
+
 title: Does ChatGPT Enhance Student Learning? A Systematic Review and Meta-Analysis
   of Experimental Studies
 authors:
@@ -26,19 +27,19 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-scholarship
-- teaching-and-pedagogy
-- method/literature-review
-- method/quantitative
-- method/critical-analysis
-- method/empirical
-- topic/large-language-models
-- topic/evaluation
-- stakeholder/researchers
-- stakeholder/students
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - teaching-and-pedagogy
+  - method-literature-review
+  - method-quantitative
+  - method-critical-analysis
+  - method-empirical
+  - topic-large-language-models
+  - topic-evaluation
+  - stakeholder-researchers
+  - stakeholder-students
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # Does ChatGPT Enhance Student Learning? A Systematic Review and Meta-Analysis of Experimental Studies

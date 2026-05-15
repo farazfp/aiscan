@@ -1,4 +1,5 @@
 ---
+
 title: 'AI-Powered Recommender Systems: Personalization and Bias'
 authors:
 - Taneja, Ankit Kumar
@@ -28,20 +29,20 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-scholarship
-- audience
-- method/computational
-- method/design-research
-- topic/generative-ai
-- topic/algorithmic-bias
-- topic/bias
-- topic/epistemic-authority
-- topic/diversity
-- stakeholder/researchers
-- tension/technical-capability-v-organizational-capacity
-- tension/operational-assistance-v-epistemic-authority
-- cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - audience
+  - method-computational
+  - method-design-research
+  - topic-generative-ai
+  - topic-algorithmic-bias
+  - topic-bias
+  - topic-epistemic-authority
+  - topic-diversity
+  - stakeholder-researchers
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
+  - cited-in-introduction
 ---
 
 # AI-Powered Recommender Systems: Personalization and Bias

@@ -1,4 +1,5 @@
 ---
+
 title: 'Familiar Wikidata: The Case for Building a Data Source We Can Trust'
 authors:
 - Crompton, C., Antranikan, L., Truong, R
@@ -22,16 +23,16 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- knowledge-foundations
-- topic/infrastructure
-- topic/open-data
-- topic/governance
-- topic/diversity
-- topic/trust
-- stakeholder/communities
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - knowledge-foundations
+  - topic-infrastructure
+  - topic-open-data
+  - topic-governance
+  - topic-diversity
+  - topic-trust
+  - stakeholder-communities
+  - cited-in-introduction
 ---
 
 # Familiar Wikidata: The Case for Building a Data Source We Can Trust

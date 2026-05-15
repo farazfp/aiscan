@@ -25,19 +25,19 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "community-connection-and-the-human"
-  - "method/computational"
-  - "method/framework-development"
-  - "topic/transparency"
-  - "topic/infrastructure"
-  - "topic/provenance"
-  - "stakeholder/researchers"
-  - "stakeholder/institutions"
-  - "stakeholder/publishers"
-  - "stakeholder/developers"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - community-connection-and-the-human
+  - method-computational
+  - method-framework-development
+  - topic-transparency
+  - topic-infrastructure
+  - topic-provenance
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-publishers
+  - stakeholder-developers
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # ‘Any Means Necessary to Refuse Erasure by Algorithm:’ Lillian-Yvonne Bertram’s Travesty Generator

@@ -20,17 +20,17 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "infrastructures"
-  - "stakeholder/institutions"
-  - "region/global-south"
-  - "region/global-north"
-  - "region/europe"
-  - "region/north-america"
-  - "region/africa"
-  - "region/latin-america"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - stakeholder-institutions
+  - region-global-south
+  - region-global-north
+  - region-europe
+  - region-north-america
+  - region-africa
+  - region-latin-america
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Bridging the AI Gap: Comparative Analysis of AI Integration, Education, and Outreach in Academic Libraries

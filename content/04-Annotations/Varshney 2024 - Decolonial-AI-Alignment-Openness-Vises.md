@@ -28,23 +28,23 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "globalism-colonialism-and-influence"
-  - "method/framework-development"
-  - "method/design-research"
-  - "topic/decolonization"
-  - "topic/large-language-models"
-  - "topic/epistemic-authority"
-  - "topic/diversity"
-  - "topic/reproducibility"
-  - "stakeholder/publishers"
-  - "stakeholder/communities"
-  - "stakeholder/developers"
-  - "region/global-north"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/openness-v-enclosure"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-social
+  - globalism-colonialism-and-influence
+  - method-framework-development
+  - method-design-research
+  - topic-decolonization
+  - topic-large-language-models
+  - topic-epistemic-authority
+  - topic-diversity
+  - topic-reproducibility
+  - stakeholder-publishers
+  - stakeholder-communities
+  - stakeholder-developers
+  - region-global-north
+  - tension-technical-capability-v-organizational-capacity
+  - tension-openness-v-enclosure
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Decolonial AI Alignment: Openness, Visesa-Dharma, and Including Excluded Knowledges

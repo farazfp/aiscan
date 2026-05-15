@@ -31,22 +31,22 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "service-and-peer-review"
-  - "method/quantitative"
-  - "method/comparative"
-  - "method/empirical"
-  - "method/design-research"
-  - "topic/large-language-models"
-  - "topic/peer-review"
-  - "topic/epistemic-authority"
-  - "topic/hallucination"
-  - "topic/curation"
-  - "topic/reproducibility"
-  - "tension/operational-assistance-v-epistemic-authority"
-  - "tension/efficiency-v-process"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - service-and-peer-review
+  - method-quantitative
+  - method-comparative
+  - method-empirical
+  - method-design-research
+  - topic-large-language-models
+  - topic-peer-review
+  - topic-epistemic-authority
+  - topic-hallucination
+  - topic-curation
+  - topic-reproducibility
+  - tension-operational-assistance-v-epistemic-authority
+  - tension-efficiency-v-process
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Generative AI in Peer Review Process for Occupational Health

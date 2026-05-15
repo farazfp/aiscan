@@ -1,4 +1,5 @@
 ---
+
 title: "The Model Openness Framework: Promoting Completeness and Openness for Reproducibility,' Transparency, and Usability in AI. arXiv preprint arXiv:2403.13784"
 authors:
 - White, M., Haddad, I., Osborne, C., Liu, X., Abdelmonsef, A., Varghese, S
@@ -32,22 +33,22 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- past-relation-to-oss-aligned-communities
-- method/framework-development
-- topic/open-science
-- topic/open-source
-- topic/reproducibility
-- topic/training-data
-- topic/ai-ethics
-- topic/fair-principles
-- stakeholder/policymakers
-- stakeholder/communities
-- stakeholder/industry
-- tension/openness-v-enclosure
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - past-relation-to-oss-aligned-communities
+  - method-framework-development
+  - topic-open-science
+  - topic-open-source
+  - topic-reproducibility
+  - topic-training-data
+  - topic-ai-ethics
+  - topic-fair-principles
+  - stakeholder-policymakers
+  - stakeholder-communities
+  - stakeholder-industry
+  - tension-openness-v-enclosure
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # The Model Openness Framework: Promoting Completeness and Openness for Reproducibility, Transparency, and Usability in AI. arXiv preprint arXiv:2403.13784

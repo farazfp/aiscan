@@ -29,21 +29,21 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "diversity-determinism-bias-and-justice"
-  - "method/quantitative"
-  - "method/framework-development"
-  - "method/design-research"
-  - "method/action-research"
-  - "topic/bias"
-  - "topic/large-language-models"
-  - "topic/evaluation"
-  - "topic/natural-language-processing"
-  - "topic/diversity"
-  - "topic/participation"
-  - "stakeholder/communities"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - diversity-determinism-bias-and-justice
+  - method-quantitative
+  - method-framework-development
+  - method-design-research
+  - method-action-research
+  - topic-bias
+  - topic-large-language-models
+  - topic-evaluation
+  - topic-natural-language-processing
+  - topic-diversity
+  - topic-participation
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Bias and Fairness in Large Language Models: A Survey

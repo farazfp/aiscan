@@ -24,18 +24,18 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-source"
-  - "method/quantitative"
-  - "method/framework-development"
-  - "topic/governance"
-  - "topic/labour"
-  - "stakeholder/communities"
-  - "stakeholder/industry"
-  - "tension/openness-v-enclosure"
-  - "tension/efficiency-v-process"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-open
+  - open-source
+  - method-quantitative
+  - method-framework-development
+  - topic-governance
+  - topic-labour
+  - stakeholder-communities
+  - stakeholder-industry
+  - tension-openness-v-enclosure
+  - tension-efficiency-v-process
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Strategic Implications of Openness in AI Development

@@ -1,4 +1,5 @@
 ---
+
 title: 'AI Governance in Higher Education: Case Studies of Guidance at Big Ten Universities'
 authors:
 - Wu, Chuhao, He Zhang
@@ -26,20 +27,20 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-scholarship
-- infrastructures
-- method/case-study
-- method/empirical
-- topic/governance
-- topic/infrastructure
-- topic/ai-governance
-- stakeholder/researchers
-- stakeholder/institutions
-- stakeholder/students
-- tension/technical-capability-v-organizational-capacity
-- tension/operational-assistance-v-epistemic-authority
-- cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - method-case-study
+  - method-empirical
+  - topic-governance
+  - topic-infrastructure
+  - topic-ai-governance
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-students
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
+  - cited-in-introduction
 ---
 
 # AI Governance in Higher Education: Case Studies of Guidance at Big Ten Universities

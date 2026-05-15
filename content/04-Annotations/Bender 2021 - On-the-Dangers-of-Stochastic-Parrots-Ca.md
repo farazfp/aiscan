@@ -1,4 +1,5 @@
 ---
+
 title: 'On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜'
 authors:
 - Bender, Emily M., Timnit Gebru, Angelina McMillan-Major
@@ -28,20 +29,20 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- histories-and-theories-of-ai
-- method/framework-development
-- method/critical-analysis
-- topic/training-data
-- topic/large-language-models
-- topic/environmental-impact
-- topic/curation
-- topic/diversity
-- topic/equity
-- stakeholder/developers
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - histories-and-theories-of-ai
+  - method-framework-development
+  - method-critical-analysis
+  - topic-training-data
+  - topic-large-language-models
+  - topic-environmental-impact
+  - topic-curation
+  - topic-diversity
+  - topic-equity
+  - stakeholder-developers
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜

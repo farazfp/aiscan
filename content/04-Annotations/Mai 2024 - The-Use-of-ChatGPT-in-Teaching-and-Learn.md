@@ -30,22 +30,22 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "teaching-and-pedagogy"
-  - "method/case-study"
-  - "method/framework-development"
-  - "method/design-research"
-  - "topic/large-language-models"
-  - "topic/evaluation"
-  - "topic/automation"
-  - "topic/generative-ai"
-  - "topic/accountability"
-  - "topic/transparency"
-  - "stakeholder/students"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/efficiency-v-process"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-scholarship
+  - teaching-and-pedagogy
+  - method-case-study
+  - method-framework-development
+  - method-design-research
+  - topic-large-language-models
+  - topic-evaluation
+  - topic-automation
+  - topic-generative-ai
+  - topic-accountability
+  - topic-transparency
+  - stakeholder-students
+  - tension-technical-capability-v-organizational-capacity
+  - tension-efficiency-v-process
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # The Use of ChatGPT in Teaching and Learning: A Systematic Review through SWOT Analysis Approach

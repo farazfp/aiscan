@@ -26,18 +26,18 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "service-and-peer-review"
-  - "method/quantitative"
-  - "method/comparative"
-  - "method/empirical"
-  - "topic/large-language-models"
-  - "topic/evaluation"
-  - "topic/peer-review"
-  - "tension/operational-assistance-v-epistemic-authority"
-  - "tension/efficiency-v-process"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - service-and-peer-review
+  - method-quantitative
+  - method-comparative
+  - method-empirical
+  - topic-large-language-models
+  - topic-evaluation
+  - topic-peer-review
+  - tension-operational-assistance-v-epistemic-authority
+  - tension-efficiency-v-process
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Evaluating Science: A Comparison of Human and AI Reviewers

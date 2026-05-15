@@ -26,19 +26,19 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "research-methods-and-practices"
-  - "method/framework-development"
-  - "topic/large-language-models"
-  - "topic/trust"
-  - "topic/citation"
-  - "topic/hallucination"
-  - "topic/curation"
-  - "topic/scholarly-communication"
-  - "stakeholder/researchers"
-  - "stakeholder/industry"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - research-methods-and-practices
+  - method-framework-development
+  - topic-large-language-models
+  - topic-trust
+  - topic-citation
+  - topic-hallucination
+  - topic-curation
+  - topic-scholarly-communication
+  - stakeholder-researchers
+  - stakeholder-industry
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Evaluation of Large Language Model Performance and Reliability for Citation Generation Across Scientific Disciplines

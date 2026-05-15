@@ -1,4 +1,5 @@
 ---
+
 title: Beyond Open Access to Open Publication and Open Scholarship
 authors:
 - Maxwell, J. W
@@ -21,16 +22,16 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- open-social-scholarship
-- method/design-research
-- topic/participation
-- topic/knowledge-production
-- topic/accountability
-- stakeholder/communities
-- tension/operational-assistance-v-epistemic-authority
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - open-social-scholarship
+  - method-design-research
+  - topic-participation
+  - topic-knowledge-production
+  - topic-accountability
+  - stakeholder-communities
+  - tension-operational-assistance-v-epistemic-authority
+  - cited-in-introduction
 ---
 
 # Beyond Open Access to Open Publication and Open Scholarship

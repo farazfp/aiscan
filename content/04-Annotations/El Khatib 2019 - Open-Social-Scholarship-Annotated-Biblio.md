@@ -26,17 +26,17 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "essential-contexts"
-  - "open-social-scholarship"
-  - "method/quantitative"
-  - "topic/infrastructure"
-  - "topic/knowledge-production"
-  - "topic/open-access"
-  - "topic/accountability"
-  - "topic/participation"
-  - "topic/accessibility"
-  - "stakeholder/researchers"
+  - annotation
+  - essential-contexts
+  - open-social-scholarship
+  - method-quantitative
+  - topic-infrastructure
+  - topic-knowledge-production
+  - topic-open-access
+  - topic-accountability
+  - topic-participation
+  - topic-accessibility
+  - stakeholder-researchers
 ---
 
 # Open Social Scholarship Annotated Bibliography

@@ -1,4 +1,5 @@
 ---
+
 title: Algorithmic bias in data-driven innovation in the age of AI
 authors:
 - Akter, S., McCarthy, G., Sajib, S., Michael, K., Dwivedi, Y. K., D’Ambra, J
@@ -30,25 +31,25 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- bias-and-technological-determinism
-- method/case-study
-- method/computational
-- method/framework-development
-- method/design-research
-- topic/bias
-- topic/equity
-- topic/algorithmic-bias
-- topic/provenance
-- topic/reproducibility
-- stakeholder/researchers
-- stakeholder/institutions
-- stakeholder/developers
-- region/australia-oceania
-- tension/technical-capability-v-organizational-capacity
-- tension/operational-assistance-v-epistemic-authority
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - bias-and-technological-determinism
+  - method-case-study
+  - method-computational
+  - method-framework-development
+  - method-design-research
+  - topic-bias
+  - topic-equity
+  - topic-algorithmic-bias
+  - topic-provenance
+  - topic-reproducibility
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-developers
+  - region-australia-oceania
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
+  - cited-in-introduction
 ---
 
 # Algorithmic bias in data-driven innovation in the age of AI

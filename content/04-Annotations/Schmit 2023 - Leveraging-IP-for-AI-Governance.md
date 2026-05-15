@@ -27,20 +27,20 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-source"
-  - "method/framework-development"
-  - "topic/intellectual-property"
-  - "topic/training-data"
-  - "topic/governance"
-  - "topic/surveillance"
-  - "topic/trust"
-  - "stakeholder/policymakers"
-  - "stakeholder/communities"
-  - "stakeholder/industry"
-  - "stakeholder/developers"
-  - "tension/efficiency-v-process"
+  - annotation
+  - ai-and-open
+  - open-source
+  - method-framework-development
+  - topic-intellectual-property
+  - topic-training-data
+  - topic-governance
+  - topic-surveillance
+  - topic-trust
+  - stakeholder-policymakers
+  - stakeholder-communities
+  - stakeholder-industry
+  - stakeholder-developers
+  - tension-efficiency-v-process
 ---
 
 # Leveraging IP for AI Governance

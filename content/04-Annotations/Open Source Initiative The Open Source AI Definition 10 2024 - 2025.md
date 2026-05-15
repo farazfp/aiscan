@@ -26,20 +26,20 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "essential-contexts"
-  - "past-relation-to-oss-aligned-communities"
-  - "method/framework-development"
-  - "topic/governance"
-  - "topic/infrastructure"
-  - "topic/interoperability"
-  - "topic/transparency"
-  - "topic/enclosure"
-  - "stakeholder/publishers"
-  - "stakeholder/policymakers"
-  - "stakeholder/communities"
-  - "tension/openness-v-enclosure"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - essential-contexts
+  - past-relation-to-oss-aligned-communities
+  - method-framework-development
+  - topic-governance
+  - topic-infrastructure
+  - topic-interoperability
+  - topic-transparency
+  - topic-enclosure
+  - stakeholder-publishers
+  - stakeholder-policymakers
+  - stakeholder-communities
+  - tension-openness-v-enclosure
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # –2025)

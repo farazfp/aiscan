@@ -24,17 +24,17 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "critical-literacies"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/theoretical"
-  - "method/design-research"
-  - "topic/explainability"
-  - "stakeholder/communities"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-social
+  - critical-literacies
+  - method-computational
+  - method-framework-development
+  - method-theoretical
+  - method-design-research
+  - topic-explainability
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # What is AI Literacy? Competencies and Design Considerations

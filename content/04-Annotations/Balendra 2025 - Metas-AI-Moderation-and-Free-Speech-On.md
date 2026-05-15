@@ -25,22 +25,22 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "governance-leadership-and-policy"
-  - "method/case-study"
-  - "method/framework-development"
-  - "topic/governance"
-  - "topic/decolonization"
-  - "topic/infrastructure"
-  - "stakeholder/publishers"
-  - "stakeholder/policymakers"
-  - "stakeholder/communities"
-  - "stakeholder/industry"
-  - "region/global-south"
-  - "region/europe"
-  - "region/north-america"
-  - "region/global"
+  - annotation
+  - ai-and-social
+  - governance-leadership-and-policy
+  - method-case-study
+  - method-framework-development
+  - topic-governance
+  - topic-decolonization
+  - topic-infrastructure
+  - stakeholder-publishers
+  - stakeholder-policymakers
+  - stakeholder-communities
+  - stakeholder-industry
+  - region-global-south
+  - region-europe
+  - region-north-america
+  - region-global
 ---
 
 # Meta's AI Moderation and Free Speech: Ongoing Challenges in the Global South

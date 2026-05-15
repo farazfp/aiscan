@@ -23,16 +23,16 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "platforms"
-  - "method/computational"
-  - "method/empirical"
-  - "method/design-research"
-  - "topic/misinformation"
-  - "topic/infrastructure"
-  - "stakeholder/communities"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - platforms
+  - method-computational
+  - method-empirical
+  - method-design-research
+  - topic-misinformation
+  - topic-infrastructure
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Characterizing AI-Generated Misinformation on Social Media

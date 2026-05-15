@@ -24,20 +24,20 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "community-connection-and-the-human"
-  - "method/quantitative"
-  - "topic/large-language-models"
-  - "topic/generative-ai"
-  - "topic/bias"
-  - "topic/equity"
-  - "topic/training-data"
-  - "stakeholder/communities"
-  - "region/north-america"
-  - "region/asia"
-  - "region/global"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - community-connection-and-the-human
+  - method-quantitative
+  - topic-large-language-models
+  - topic-generative-ai
+  - topic-bias
+  - topic-equity
+  - topic-training-data
+  - stakeholder-communities
+  - region-north-america
+  - region-asia
+  - region-global
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # The Social Impact of Generative LLM-Based AI

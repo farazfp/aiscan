@@ -21,13 +21,13 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-source"
-  - "topic/open-source"
-  - "topic/provenance"
-  - "topic/accessibility"
-  - "stakeholder/developers"
+  - annotation
+  - ai-and-open
+  - open-source
+  - topic-open-source
+  - topic-provenance
+  - topic-accessibility
+  - stakeholder-developers
 ---
 
 # Open Source is Good for AI But, Is AI Good for Open Source?

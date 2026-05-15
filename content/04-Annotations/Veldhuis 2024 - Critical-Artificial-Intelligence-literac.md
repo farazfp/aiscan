@@ -30,21 +30,21 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "critical-literacies"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/theoretical"
-  - "method/empirical"
-  - "topic/algorithmic-bias"
-  - "topic/accountability"
-  - "topic/bias"
-  - "topic/peer-review"
-  - "topic/generative-ai"
-  - "topic/surveillance"
-  - "stakeholder/students"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - critical-literacies
+  - method-computational
+  - method-framework-development
+  - method-theoretical
+  - method-empirical
+  - topic-algorithmic-bias
+  - topic-accountability
+  - topic-bias
+  - topic-peer-review
+  - topic-generative-ai
+  - topic-surveillance
+  - stakeholder-students
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Critical Artificial Intelligence literacy: A scoping review and framework synthesis

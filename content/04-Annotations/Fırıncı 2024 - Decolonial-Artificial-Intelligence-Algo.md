@@ -32,25 +32,25 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "globalism-colonialism-and-influence"
-  - "method/quantitative"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/theoretical"
-  - "method/design-research"
-  - "topic/decolonization"
-  - "topic/bias"
-  - "topic/infrastructure"
-  - "topic/knowledge-production"
-  - "topic/algorithmic-bias"
-  - "topic/governance"
-  - "stakeholder/publishers"
-  - "stakeholder/communities"
-  - "region/global-north"
-  - "region/global"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - globalism-colonialism-and-influence
+  - method-quantitative
+  - method-computational
+  - method-framework-development
+  - method-theoretical
+  - method-design-research
+  - topic-decolonization
+  - topic-bias
+  - topic-infrastructure
+  - topic-knowledge-production
+  - topic-algorithmic-bias
+  - topic-governance
+  - stakeholder-publishers
+  - stakeholder-communities
+  - region-global-north
+  - region-global
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Decolonial Artificial Intelligence; Algorithmic Fairness in Alignment with Turkish and Islamic Values

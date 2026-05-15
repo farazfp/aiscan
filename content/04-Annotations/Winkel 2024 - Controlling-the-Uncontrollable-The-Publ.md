@@ -21,15 +21,15 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "diversity-determinism-bias-and-justice"
-  - "method/qualitative"
-  - "method/quantitative"
-  - "stakeholder/policymakers"
-  - "stakeholder/communities"
-  - "region/global"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-social
+  - diversity-determinism-bias-and-justice
+  - method-qualitative
+  - method-quantitative
+  - stakeholder-policymakers
+  - stakeholder-communities
+  - region-global
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Controlling the Uncontrollable: The Public Discourse on Artificial Intelligence between the Positions of Social and Technological Determinism

@@ -24,20 +24,20 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "globalism-colonialism-and-influence"
-  - "method/computational"
-  - "method/framework-development"
-  - "topic/infrastructure"
-  - "topic/decolonization"
-  - "topic/governance"
-  - "topic/labour"
-  - "topic/data-sovereignty"
-  - "stakeholder/policymakers"
-  - "region/global-south"
-  - "region/africa"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - globalism-colonialism-and-influence
+  - method-computational
+  - method-framework-development
+  - topic-infrastructure
+  - topic-decolonization
+  - topic-governance
+  - topic-labour
+  - topic-data-sovereignty
+  - stakeholder-policymakers
+  - region-global-south
+  - region-africa
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Artificial intelligence, digital colonialism, and the implications for Africa's future development

@@ -1,4 +1,5 @@
 ---
+
 title: Persistent Identifiers as Open Research Infrastructure to Reduce Administrative
   Burden
 authors:
@@ -20,14 +21,14 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- knowledge-foundations
-- topic/infrastructure
-- topic/provenance
-- topic/interoperability
-- stakeholder/publishers
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - knowledge-foundations
+  - topic-infrastructure
+  - topic-provenance
+  - topic-interoperability
+  - stakeholder-publishers
+  - cited-in-introduction
 ---
 
 # Persistent Identifiers as Open Research Infrastructure to Reduce Administrative Burden

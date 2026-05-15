@@ -32,19 +32,19 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "community-connection-and-the-human"
-  - "method/computational"
-  - "method/framework-development"
-  - "topic/digital-humanities"
-  - "topic/reproducibility"
-  - "topic/epistemic-authority"
-  - "topic/natural-language-processing"
-  - "topic/explainability"
-  - "topic/transparency"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-social
+  - community-connection-and-the-human
+  - method-computational
+  - method-framework-development
+  - topic-digital-humanities
+  - topic-reproducibility
+  - topic-epistemic-authority
+  - topic-natural-language-processing
+  - topic-explainability
+  - topic-transparency
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # What Passes for Human?: Undermining the Universal Subject in Digital Humanities Praxis

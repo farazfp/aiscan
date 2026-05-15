@@ -28,21 +28,21 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "governance-leadership-and-policy"
-  - "method/framework-development"
-  - "topic/governance"
-  - "topic/diversity"
-  - "topic/participation"
-  - "topic/ai-governance"
-  - "topic/accountability"
-  - "topic/transparency"
-  - "stakeholder/communities"
-  - "stakeholder/industry"
-  - "tension/efficiency-v-process"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-social
+  - governance-leadership-and-policy
+  - method-framework-development
+  - topic-governance
+  - topic-diversity
+  - topic-participation
+  - topic-ai-governance
+  - topic-accountability
+  - topic-transparency
+  - stakeholder-communities
+  - stakeholder-industry
+  - tension-efficiency-v-process
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Democratizing AI Governance: Balancing Expertise and Public Participation

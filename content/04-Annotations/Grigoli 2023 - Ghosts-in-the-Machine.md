@@ -25,18 +25,18 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "teaching-and-pedagogy"
-  - "method/critical-analysis"
-  - "method/design-research"
-  - "topic/large-language-models"
-  - "topic/trust"
-  - "topic/research-integrity"
-  - "topic/evaluation"
-  - "stakeholder/researchers"
-  - "stakeholder/students"
-  - "stakeholder/developers"
+  - annotation
+  - ai-and-scholarship
+  - teaching-and-pedagogy
+  - method-critical-analysis
+  - method-design-research
+  - topic-large-language-models
+  - topic-trust
+  - topic-research-integrity
+  - topic-evaluation
+  - stakeholder-researchers
+  - stakeholder-students
+  - stakeholder-developers
 ---
 
 # Ghosts in the Machine

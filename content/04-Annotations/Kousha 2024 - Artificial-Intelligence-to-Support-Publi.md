@@ -1,4 +1,5 @@
 ---
+
 title: "Artificial Intelligence to Support Publishing and Peer Review: A Summary and' Review"
 authors:
 - Kousha, Kayvan
@@ -27,22 +28,22 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-scholarship
-- infrastructures
-- method/quantitative
-- topic/automation
-- topic/reproducibility
-- topic/transparency
-- topic/diversity
-- topic/research-integrity
-- topic/evaluation
-- stakeholder/researchers
-- stakeholder/publishers
-- stakeholder/communities
-- region/asia
-- tension/efficiency-v-process
-- cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - method-quantitative
+  - topic-automation
+  - topic-reproducibility
+  - topic-transparency
+  - topic-diversity
+  - topic-research-integrity
+  - topic-evaluation
+  - stakeholder-researchers
+  - stakeholder-publishers
+  - stakeholder-communities
+  - region-asia
+  - tension-efficiency-v-process
+  - cited-in-introduction
 ---
 
 # Artificial Intelligence to Support Publishing and Peer Review: A Summary and Review

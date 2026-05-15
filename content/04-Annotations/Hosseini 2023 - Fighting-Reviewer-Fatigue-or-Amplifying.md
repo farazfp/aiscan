@@ -1,4 +1,5 @@
 ---
+
 title: Fighting Reviewer Fatigue or Amplifying Bias? Considerations and Recommendations
   for Use of ChatGPT and Other Large Language Models in Scholarly Peer Review
 authors:
@@ -31,22 +32,22 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-scholarship
-- service-and-peer-review
-- method/framework-development
-- method/design-research
-- topic/large-language-models
-- topic/bias
-- topic/peer-review
-- topic/epistemic-authority
-- topic/accountability
-- topic/participation
-- stakeholder/institutions
-- stakeholder/publishers
-- tension/technical-capability-v-organizational-capacity
-- tension/operational-assistance-v-epistemic-authority
-- cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - service-and-peer-review
+  - method-framework-development
+  - method-design-research
+  - topic-large-language-models
+  - topic-bias
+  - topic-peer-review
+  - topic-epistemic-authority
+  - topic-accountability
+  - topic-participation
+  - stakeholder-institutions
+  - stakeholder-publishers
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
+  - cited-in-introduction
 ---
 
 # Fighting Reviewer Fatigue or Amplifying Bias? Considerations and Recommendations for Use of ChatGPT and Other Large Language Models in Scholarly Peer Review

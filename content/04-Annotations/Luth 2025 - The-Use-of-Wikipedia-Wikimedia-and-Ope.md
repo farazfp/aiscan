@@ -1,4 +1,5 @@
 ---
+
 title: The Use of Wikipedia, Wikimedia, and Open Access Content for Artificial Intelligence
   and Text and Data Mining
 authors:
@@ -24,18 +25,18 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-open
-- open-access
-- method/framework-development
-- topic/commons
-- topic/creative-commons
-- topic/open-access
-- topic/trust
-- stakeholder/developers
-- tension/openness-v-enclosure
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - ai-and-open
+  - open-access
+  - method-framework-development
+  - topic-commons
+  - topic-creative-commons
+  - topic-open-access
+  - topic-trust
+  - stakeholder-developers
+  - tension-openness-v-enclosure
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # The Use of Wikipedia, Wikimedia, and Open Access Content for Artificial Intelligence and Text and Data Mining

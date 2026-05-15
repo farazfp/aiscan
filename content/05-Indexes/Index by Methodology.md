@@ -3,9 +3,9 @@ title: "Index by Methodology"
 type: "index"
 created: "2026-05-14"
 tags:
-  - "index"
-  - "methodology"
-  - "MOC"
+  - index
+  - methodology
+  - moc
 ---
 
 # Index by Methodology

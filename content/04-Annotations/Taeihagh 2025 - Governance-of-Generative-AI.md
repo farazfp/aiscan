@@ -27,21 +27,21 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-data"
-  - "method/framework-development"
-  - "method/design-research"
-  - "topic/governance"
-  - "topic/generative-ai"
-  - "topic/hallucination"
-  - "topic/open-data"
-  - "topic/transparency"
-  - "topic/training-data"
-  - "stakeholder/institutions"
-  - "stakeholder/policymakers"
-  - "stakeholder/communities"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-open
+  - open-data
+  - method-framework-development
+  - method-design-research
+  - topic-governance
+  - topic-generative-ai
+  - topic-hallucination
+  - topic-open-data
+  - topic-transparency
+  - topic-training-data
+  - stakeholder-institutions
+  - stakeholder-policymakers
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Governance of Generative AI

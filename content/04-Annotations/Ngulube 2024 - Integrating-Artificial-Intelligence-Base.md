@@ -36,25 +36,25 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "infrastructures"
-  - "method/literature-review"
-  - "method/qualitative"
-  - "method/quantitative"
-  - "method/mixed-methods"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/theoretical"
-  - "topic/algorithmic-bias"
-  - "topic/ai-governance"
-  - "topic/governance"
-  - "topic/accountability"
-  - "topic/transparency"
-  - "topic/bias"
-  - "stakeholder/researchers"
-  - "stakeholder/institutions"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - method-literature-review
+  - method-qualitative
+  - method-quantitative
+  - method-mixed-methods
+  - method-computational
+  - method-framework-development
+  - method-theoretical
+  - topic-algorithmic-bias
+  - topic-ai-governance
+  - topic-governance
+  - topic-accountability
+  - topic-transparency
+  - topic-bias
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Integrating Artificial Intelligence-Based Technologies ‘Safely’ in Academic Libraries: An Overview through a Scoping Review

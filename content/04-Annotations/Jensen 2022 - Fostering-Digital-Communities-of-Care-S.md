@@ -1,4 +1,5 @@
 ---
+
 title: "Fostering Digital Communities of Care: Safety, Security, and Trust in the' Canadian HSS Commons"
 authors:
 - Jensen, G., et al
@@ -18,13 +19,13 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- knowledge-foundations
-- method/design-research
-- topic/governance
-- topic/infrastructure
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - knowledge-foundations
+  - method-design-research
+  - topic-governance
+  - topic-infrastructure
+  - cited-in-introduction
 ---
 
 # Fostering Digital Communities of Care: Safety, Security, and Trust in the Canadian HSS Commons

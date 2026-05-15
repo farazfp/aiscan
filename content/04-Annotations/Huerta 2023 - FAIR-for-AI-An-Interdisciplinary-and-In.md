@@ -35,22 +35,22 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-data"
-  - "method/quantitative"
-  - "method/framework-development"
-  - "topic/infrastructure"
-  - "topic/interoperability"
-  - "topic/open-access"
-  - "topic/transparency"
-  - "topic/trust"
-  - "topic/ai-ethics"
-  - "stakeholder/communities"
-  - "region/global-north"
-  - "region/europe"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/openness-v-enclosure"
+  - annotation
+  - ai-and-open
+  - open-data
+  - method-quantitative
+  - method-framework-development
+  - topic-infrastructure
+  - topic-interoperability
+  - topic-open-access
+  - topic-transparency
+  - topic-trust
+  - topic-ai-ethics
+  - stakeholder-communities
+  - region-global-north
+  - region-europe
+  - tension-technical-capability-v-organizational-capacity
+  - tension-openness-v-enclosure
 ---
 
 # FAIR for AI: An Interdisciplinary and International Community Building Perspective

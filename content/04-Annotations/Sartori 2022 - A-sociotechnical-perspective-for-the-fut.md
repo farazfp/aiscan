@@ -1,4 +1,5 @@
 ---
+
 title: "A sociotechnical perspective for the future of AI: narratives, inequalities,' and human control"
 authors:
 - Sartori, L
@@ -31,22 +32,22 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- bias-and-technological-determinism
-- method/computational
-- method/design-research
-- topic/bias
-- topic/explainability
-- topic/equity
-- topic/automation
-- topic/governance
-- topic/accountability
-- stakeholder/researchers
-- stakeholder/institutions
-- stakeholder/communities
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - bias-and-technological-determinism
+  - method-computational
+  - method-design-research
+  - topic-bias
+  - topic-explainability
+  - topic-equity
+  - topic-automation
+  - topic-governance
+  - topic-accountability
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # A sociotechnical perspective for the future of AI: narratives, inequalities, and human control

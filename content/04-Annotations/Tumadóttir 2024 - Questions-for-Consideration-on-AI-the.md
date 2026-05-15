@@ -21,15 +21,15 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "research-methods-and-practices"
-  - "method/framework-development"
-  - "topic/creative-commons"
-  - "topic/commons"
-  - "stakeholder/communities"
-  - "tension/openness-v-enclosure"
-  - "tension/efficiency-v-process"
+  - annotation
+  - ai-and-scholarship
+  - research-methods-and-practices
+  - method-framework-development
+  - topic-creative-commons
+  - topic-commons
+  - stakeholder-communities
+  - tension-openness-v-enclosure
+  - tension-efficiency-v-process
 ---
 
 # Questions for Consideration on AI & the Commons

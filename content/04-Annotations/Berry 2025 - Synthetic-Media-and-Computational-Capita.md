@@ -1,4 +1,5 @@
 ---
+
 title: "Synthetic Media and Computational Capitalism: Towards a Critical Theory of' Artificial Intelligence"
 authors:
 - Berry, David M
@@ -25,20 +26,20 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- histories-and-theories-of-ai
-- method/qualitative
-- method/computational
-- method/theoretical
-- topic/infrastructure
-- topic/reproducibility
-- topic/epistemic-authority
-- topic/automation
-- topic/explainability
-- topic/bias
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - histories-and-theories-of-ai
+  - method-qualitative
+  - method-computational
+  - method-theoretical
+  - topic-infrastructure
+  - topic-reproducibility
+  - topic-epistemic-authority
+  - topic-automation
+  - topic-explainability
+  - topic-bias
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # Synthetic Media and Computational Capitalism: Towards a Critical Theory of Artificial Intelligence

@@ -30,22 +30,22 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "globalism-colonialism-and-influence"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/theoretical"
-  - "method/empirical"
-  - "topic/decolonization"
-  - "topic/diversity"
-  - "topic/labour"
-  - "topic/evaluation"
-  - "topic/bias"
-  - "topic/citation"
-  - "stakeholder/publishers"
-  - "stakeholder/communities"
-  - "region/global"
+  - annotation
+  - ai-and-social
+  - globalism-colonialism-and-influence
+  - method-computational
+  - method-framework-development
+  - method-theoretical
+  - method-empirical
+  - topic-decolonization
+  - topic-diversity
+  - topic-labour
+  - topic-evaluation
+  - topic-bias
+  - topic-citation
+  - stakeholder-publishers
+  - stakeholder-communities
+  - region-global
 ---
 
 # Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence

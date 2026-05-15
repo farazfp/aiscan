@@ -20,13 +20,13 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "audience"
-  - "topic/automation"
-  - "stakeholder/institutions"
-  - "stakeholder/developers"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - audience
+  - topic-automation
+  - stakeholder-institutions
+  - stakeholder-developers
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Implementing an AI Reference Chatbot at the University of Calgary Library

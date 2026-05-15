@@ -27,19 +27,19 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "infrastructures"
-  - "method/framework-development"
-  - "topic/infrastructure"
-  - "topic/provenance"
-  - "topic/governance"
-  - "topic/accountability"
-  - "topic/ai-ethics"
-  - "topic/surveillance"
-  - "stakeholder/institutions"
-  - "stakeholder/policymakers"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - method-framework-development
+  - topic-infrastructure
+  - topic-provenance
+  - topic-governance
+  - topic-accountability
+  - topic-ai-ethics
+  - topic-surveillance
+  - stakeholder-institutions
+  - stakeholder-policymakers
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Establishing Data Provenance for Responsible Artificial Intelligence Systems

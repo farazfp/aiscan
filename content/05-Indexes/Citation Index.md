@@ -4,10 +4,10 @@ type: "index"
 created: "2026-05-14"
 total_cited_annotations: 51
 tags:
-  - "index"
-  - "citations"
-  - "reference"
-  - "MOC"
+  - index
+  - citations
+  - reference
+  - moc
 ---
 
 # 📇 Citation Index

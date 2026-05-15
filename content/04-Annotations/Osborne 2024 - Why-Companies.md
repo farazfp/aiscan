@@ -27,20 +27,20 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-source"
-  - "topic/open-source"
-  - "topic/governance"
-  - "topic/participation"
-  - "topic/open-science"
-  - "topic/open-scholarship"
-  - "topic/intellectual-property"
-  - "stakeholder/researchers"
-  - "stakeholder/industry"
-  - "stakeholder/developers"
-  - "tension/openness-v-enclosure"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-open
+  - open-source
+  - topic-open-source
+  - topic-governance
+  - topic-participation
+  - topic-open-science
+  - topic-open-scholarship
+  - topic-intellectual-property
+  - stakeholder-researchers
+  - stakeholder-industry
+  - stakeholder-developers
+  - tension-openness-v-enclosure
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Why Companies

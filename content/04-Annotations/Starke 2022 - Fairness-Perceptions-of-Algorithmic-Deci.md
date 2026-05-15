@@ -29,23 +29,23 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "diversity-determinism-bias-and-justice"
-  - "method/literature-review"
-  - "method/quantitative"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/theoretical"
-  - "method/empirical"
-  - "method/design-research"
-  - "topic/bias"
-  - "topic/diversity"
-  - "stakeholder/researchers"
-  - "stakeholder/communities"
-  - "region/global-north"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-social
+  - diversity-determinism-bias-and-justice
+  - method-literature-review
+  - method-quantitative
+  - method-computational
+  - method-framework-development
+  - method-theoretical
+  - method-empirical
+  - method-design-research
+  - topic-bias
+  - topic-diversity
+  - stakeholder-researchers
+  - stakeholder-communities
+  - region-global-north
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Fairness Perceptions of Algorithmic Decision-Making: A Systematic Review of the Empirical Literature

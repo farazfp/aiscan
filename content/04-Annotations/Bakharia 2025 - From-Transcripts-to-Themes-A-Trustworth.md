@@ -27,20 +27,20 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "research-methods-and-practices"
-  - "method/qualitative"
-  - "method/quantitative"
-  - "topic/large-language-models"
-  - "topic/transparency"
-  - "topic/hallucination"
-  - "topic/explainability"
-  - "topic/bias"
-  - "topic/curation"
-  - "stakeholder/researchers"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/efficiency-v-process"
+  - annotation
+  - ai-and-scholarship
+  - research-methods-and-practices
+  - method-qualitative
+  - method-quantitative
+  - topic-large-language-models
+  - topic-transparency
+  - topic-hallucination
+  - topic-explainability
+  - topic-bias
+  - topic-curation
+  - stakeholder-researchers
+  - tension-technical-capability-v-organizational-capacity
+  - tension-efficiency-v-process
 ---
 
 # From Transcripts to Themes: A Trustworthy Workflow for Qualitative Analysis Using Large Language Models

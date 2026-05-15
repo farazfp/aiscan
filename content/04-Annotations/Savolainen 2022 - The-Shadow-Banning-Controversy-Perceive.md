@@ -23,16 +23,16 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "platforms"
-  - "method/quantitative"
-  - "method/computational"
-  - "topic/governance"
-  - "topic/infrastructure"
-  - "topic/automation"
-  - "topic/transparency"
-  - "stakeholder/publishers"
+  - annotation
+  - ai-and-social
+  - platforms
+  - method-quantitative
+  - method-computational
+  - topic-governance
+  - topic-infrastructure
+  - topic-automation
+  - topic-transparency
+  - stakeholder-publishers
 ---
 
 # The Shadow Banning Controversy: Perceived Governance and Algorithmic Folklore

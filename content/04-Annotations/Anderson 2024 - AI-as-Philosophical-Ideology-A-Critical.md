@@ -1,4 +1,5 @@
 ---
+
 title: 'AI as Philosophical Ideology: A Critical Look Back at John McCarthy’s Program'
 authors:
 - 'Anderson, Marc M. “AI as Philosophical Ideology: A Critical Look Back at John McCarthy’s
@@ -23,16 +24,16 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- histories-and-theories-of-ai
-- method/framework-development
-- method/critical-analysis
-- topic/ai-ethics
-- topic/bias
-- stakeholder/industry
-- tension/operational-assistance-v-epistemic-authority
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - histories-and-theories-of-ai
+  - method-framework-development
+  - method-critical-analysis
+  - topic-ai-ethics
+  - topic-bias
+  - stakeholder-industry
+  - tension-operational-assistance-v-epistemic-authority
+  - cited-in-introduction
 ---
 
 # AI as Philosophical Ideology: A Critical Look Back at John McCarthy’s Program

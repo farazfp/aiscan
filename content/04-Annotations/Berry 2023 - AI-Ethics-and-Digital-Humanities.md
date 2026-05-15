@@ -1,4 +1,5 @@
 ---
+
 title: AI, Ethics, and Digital Humanities
 authors:
 - Berry, D. M
@@ -24,19 +25,19 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-scholarship
-- teaching-and-pedagogy
-- method/quantitative
-- method/computational
-- method/framework-development
-- method/comparative
-- topic/digital-humanities
-- topic/machine-learning
-- topic/explainability
-- topic/participation
-- stakeholder/developers
-- cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - teaching-and-pedagogy
+  - method-quantitative
+  - method-computational
+  - method-framework-development
+  - method-comparative
+  - topic-digital-humanities
+  - topic-machine-learning
+  - topic-explainability
+  - topic-participation
+  - stakeholder-developers
+  - cited-in-introduction
 ---
 
 # AI, Ethics, and Digital Humanities

@@ -27,21 +27,21 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "infrastructures"
-  - "method/literature-review"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/design-research"
-  - "topic/governance"
-  - "topic/infrastructure"
-  - "topic/ai-governance"
-  - "stakeholder/researchers"
-  - "stakeholder/institutions"
-  - "stakeholder/industry"
-  - "region/global"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - method-literature-review
+  - method-computational
+  - method-framework-development
+  - method-design-research
+  - topic-governance
+  - topic-infrastructure
+  - topic-ai-governance
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-industry
+  - region-global
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # AI Governance: A Systematic Literature Review

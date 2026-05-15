@@ -26,18 +26,18 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "infrastructures"
-  - "method/case-study"
-  - "method/framework-development"
-  - "method/design-research"
-  - "topic/large-language-models"
-  - "topic/generative-ai"
-  - "topic/open-scholarship"
-  - "topic/infrastructure"
-  - "stakeholder/researchers"
-  - "stakeholder/industry"
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - method-case-study
+  - method-framework-development
+  - method-design-research
+  - topic-large-language-models
+  - topic-generative-ai
+  - topic-open-scholarship
+  - topic-infrastructure
+  - stakeholder-researchers
+  - stakeholder-industry
 ---
 
 # RESEARCH GENAI: SITUATING GENERATIVE AI IN THE SCHOLARLY ECONOMY

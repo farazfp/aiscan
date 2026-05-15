@@ -1,4 +1,5 @@
 ---
+
 title: 'Describing the HSS Commons: The View from Metadata'
 authors:
 - Bullard, J
@@ -19,14 +20,14 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- knowledge-foundations
-- topic/metadata
-- topic/diversity
-- topic/infrastructure
-- topic/interoperability
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - knowledge-foundations
+  - topic-metadata
+  - topic-diversity
+  - topic-infrastructure
+  - topic-interoperability
+  - cited-in-introduction
 ---
 
 # Describing the HSS Commons: The View from Metadata

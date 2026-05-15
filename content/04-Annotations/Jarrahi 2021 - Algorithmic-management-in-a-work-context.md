@@ -23,15 +23,15 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "essential-contexts"
-  - "bias-and-technological-determinism"
-  - "method/computational"
-  - "method/design-research"
-  - "topic/automation"
-  - "topic/governance"
-  - "topic/transparency"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - essential-contexts
+  - bias-and-technological-determinism
+  - method-computational
+  - method-design-research
+  - topic-automation
+  - topic-governance
+  - topic-transparency
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Algorithmic management in a work context

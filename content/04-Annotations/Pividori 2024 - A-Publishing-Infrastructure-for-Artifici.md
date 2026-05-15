@@ -27,20 +27,20 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "infrastructures"
-  - "method/case-study"
-  - "method/framework-development"
-  - "method/design-research"
-  - "topic/evaluation"
-  - "topic/automation"
-  - "topic/provenance"
-  - "topic/large-language-models"
-  - "stakeholder/researchers"
-  - "stakeholder/institutions"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - method-case-study
+  - method-framework-development
+  - method-design-research
+  - topic-evaluation
+  - topic-automation
+  - topic-provenance
+  - topic-large-language-models
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # A Publishing Infrastructure for Artificial Intelligence (AI)-Assisted Academic Authoring

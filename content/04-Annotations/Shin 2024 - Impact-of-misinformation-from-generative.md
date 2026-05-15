@@ -30,20 +30,20 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "human-labour-and-environmental-costs"
-  - "method/quantitative"
-  - "method/computational"
-  - "method/framework-development"
-  - "topic/misinformation"
-  - "topic/generative-ai"
-  - "topic/large-language-models"
-  - "topic/hallucination"
-  - "topic/open-education"
-  - "topic/accountability"
-  - "stakeholder/researchers"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - human-labour-and-environmental-costs
+  - method-quantitative
+  - method-computational
+  - method-framework-development
+  - topic-misinformation
+  - topic-generative-ai
+  - topic-large-language-models
+  - topic-hallucination
+  - topic-open-education
+  - topic-accountability
+  - stakeholder-researchers
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Impact of misinformation from generative AI on user information processing: How people understand misinformation from generative AI

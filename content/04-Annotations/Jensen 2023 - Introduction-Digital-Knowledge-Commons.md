@@ -1,4 +1,5 @@
 ---
+
 title: "Introduction: Digital Knowledge Commons, Scholarly Connection, and the Evolution' of Open Scholarship"
 authors:
 - Jensen, G
@@ -20,15 +21,15 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- knowledge-foundations
-- topic/infrastructure
-- topic/interoperability
-- topic/commons
-- stakeholder/researchers
-- stakeholder/communities
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - knowledge-foundations
+  - topic-infrastructure
+  - topic-interoperability
+  - topic-commons
+  - stakeholder-researchers
+  - stakeholder-communities
+  - cited-in-introduction
 ---
 
 # Introduction: Digital Knowledge Commons, Scholarly Connection, and the Evolution of Open Scholarship

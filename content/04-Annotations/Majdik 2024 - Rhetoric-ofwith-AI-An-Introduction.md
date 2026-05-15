@@ -22,14 +22,14 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "critical-literacies"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/theoretical"
-  - "topic/infrastructure"
-  - "stakeholder/communities"
+  - annotation
+  - ai-and-social
+  - critical-literacies
+  - method-computational
+  - method-framework-development
+  - method-theoretical
+  - topic-infrastructure
+  - stakeholder-communities
 ---
 
 # Rhetoric of/with AI: An Introduction

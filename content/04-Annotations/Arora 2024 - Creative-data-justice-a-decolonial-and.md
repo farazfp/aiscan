@@ -36,27 +36,27 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "globalism-colonialism-and-influence"
-  - "method/qualitative"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/critical-analysis"
-  - "method/theoretical"
-  - "topic/decolonization"
-  - "topic/diversity"
-  - "topic/equity"
-  - "topic/labour"
-  - "topic/infrastructure"
-  - "topic/curation"
-  - "stakeholder/researchers"
-  - "stakeholder/communities"
-  - "region/global-south"
-  - "region/global-north"
-  - "region/global"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/openness-v-enclosure"
+  - annotation
+  - ai-and-social
+  - globalism-colonialism-and-influence
+  - method-qualitative
+  - method-computational
+  - method-framework-development
+  - method-critical-analysis
+  - method-theoretical
+  - topic-decolonization
+  - topic-diversity
+  - topic-equity
+  - topic-labour
+  - topic-infrastructure
+  - topic-curation
+  - stakeholder-researchers
+  - stakeholder-communities
+  - region-global-south
+  - region-global-north
+  - region-global
+  - tension-technical-capability-v-organizational-capacity
+  - tension-openness-v-enclosure
 ---
 
 # Creative data justice: a decolonial and indigenous framework to assess creativity and artificial intelligence

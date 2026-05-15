@@ -3,9 +3,9 @@ title: "Conceptual Map"
 type: "map"
 created: "2026-05-14"
 tags:
-  - "map"
-  - "MOC"
-  - "concepts"
+  - map
+  - moc
+  - concepts
 ---
 
 # 🗺️ Conceptual Map

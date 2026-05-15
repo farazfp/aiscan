@@ -26,18 +26,18 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "infrastructures"
-  - "method/case-study"
-  - "topic/open-access"
-  - "topic/peer-review"
-  - "topic/research-integrity"
-  - "topic/citation"
-  - "stakeholder/researchers"
-  - "stakeholder/publishers"
-  - "stakeholder/communities"
-  - "stakeholder/industry"
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - method-case-study
+  - topic-open-access
+  - topic-peer-review
+  - topic-research-integrity
+  - topic-citation
+  - stakeholder-researchers
+  - stakeholder-publishers
+  - stakeholder-communities
+  - stakeholder-industry
 ---
 
 # Artificial intelligence-assisted tools for redefining the communication landscape of the scholarly world

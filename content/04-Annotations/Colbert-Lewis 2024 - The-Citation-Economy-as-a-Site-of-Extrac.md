@@ -1,4 +1,5 @@
 ---
+
 title: "The Citation Economy as a Site of Extraction for Surveillance Publishing"
 authors:
   - "Colbert-Lewis, Danielle, Lawrence Maminta, Kelly McElroy, Graeme Slaght"
@@ -30,22 +31,24 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-- cited-in-introduction
-  - "annotation"
-  - "ai-and-scholarship"
-  - "forms-of-research-output"
-  - "method/design-research"
-  - "topic/infrastructure"
-  - "topic/surveillance"
-  - "topic/citation"
-  - "topic/transparency"
-  - "topic/participation"
-  - "topic/scholarly-communication"
-  - "stakeholder/researchers"
-  - "stakeholder/institutions"
-  - "stakeholder/publishers"
-  - "stakeholder/librarians"
-  - "tension/openness-v-enclosure"
+  - cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - forms-of-research-output
+  - method-design-research
+  - topic-infrastructure
+  - topic-surveillance
+  - topic-citation
+  - topic-transparency
+  - topic-participation
+  - topic-scholarly-communication
+  - topic-evaluation
+  - topic-enclosure
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-publishers
+  - stakeholder-librarians
+  - tension-openness-v-enclosure
 ---
 
 # The Citation Economy as a Site of Extraction for Surveillance Publishing

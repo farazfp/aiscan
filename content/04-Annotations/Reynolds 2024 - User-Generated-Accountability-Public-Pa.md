@@ -29,22 +29,22 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "platforms"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/comparative"
-  - "method/theoretical"
-  - "method/empirical"
-  - "topic/infrastructure"
-  - "topic/governance"
-  - "topic/accountability"
-  - "topic/automation"
-  - "topic/transparency"
-  - "stakeholder/publishers"
-  - "stakeholder/communities"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - platforms
+  - method-computational
+  - method-framework-development
+  - method-comparative
+  - method-theoretical
+  - method-empirical
+  - topic-infrastructure
+  - topic-governance
+  - topic-accountability
+  - topic-automation
+  - topic-transparency
+  - stakeholder-publishers
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # User-Generated Accountability: Public Participation in Algorithmic Governance on YouTube

@@ -32,23 +32,23 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "forms-of-research-output"
-  - "method/framework-development"
-  - "topic/transparency"
-  - "topic/consent"
-  - "topic/trust"
-  - "topic/epistemic-authority"
-  - "topic/accountability"
-  - "topic/bias"
-  - "stakeholder/researchers"
-  - "stakeholder/publishers"
-  - "stakeholder/communities"
-  - "stakeholder/industry"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
-  - "tension/efficiency-v-process"
+  - annotation
+  - ai-and-scholarship
+  - forms-of-research-output
+  - method-framework-development
+  - topic-transparency
+  - topic-consent
+  - topic-trust
+  - topic-epistemic-authority
+  - topic-accountability
+  - topic-bias
+  - stakeholder-researchers
+  - stakeholder-publishers
+  - stakeholder-communities
+  - stakeholder-industry
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
+  - tension-efficiency-v-process
 ---
 
 # AI in scientific writing and publishing: A call for critical engagement

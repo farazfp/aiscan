@@ -30,24 +30,24 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "governance-leadership-and-policy"
-  - "method/case-study"
-  - "method/framework-development"
-  - "method/theoretical"
-  - "method/empirical"
-  - "method/design-research"
-  - "topic/governance"
-  - "topic/automation"
-  - "topic/diversity"
-  - "topic/participation"
-  - "topic/ai-governance"
-  - "stakeholder/institutions"
-  - "stakeholder/policymakers"
-  - "stakeholder/communities"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-social
+  - governance-leadership-and-policy
+  - method-case-study
+  - method-framework-development
+  - method-theoretical
+  - method-empirical
+  - method-design-research
+  - topic-governance
+  - topic-automation
+  - topic-diversity
+  - topic-participation
+  - topic-ai-governance
+  - stakeholder-institutions
+  - stakeholder-policymakers
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # ative Approaches to AI Governance: Exploring Co-Design and Co-Regulation Models

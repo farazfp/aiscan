@@ -20,13 +20,13 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "community-connection-and-the-human"
-  - "method/quantitative"
-  - "topic/interoperability"
-  - "stakeholder/researchers"
-  - "stakeholder/industry"
+  - annotation
+  - ai-and-social
+  - community-connection-and-the-human
+  - method-quantitative
+  - topic-interoperability
+  - stakeholder-researchers
+  - stakeholder-industry
 ---
 
 # Polarization of Autonomous Generative AI Agents Under Echo Chambers

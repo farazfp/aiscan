@@ -21,13 +21,13 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "teaching-and-pedagogy"
-  - "stakeholder/researchers"
-  - "stakeholder/institutions"
-  - "stakeholder/students"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - teaching-and-pedagogy
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-students
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # The AI Generation: How universities Can Prepare Students for the Changing World

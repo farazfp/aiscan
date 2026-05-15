@@ -1,4 +1,5 @@
 ---
+
 title: Sociotechnical Implications of Generative Artificial Intelligence for Information
   Access
 authors:
@@ -38,25 +39,25 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- past-relation-to-oss-aligned-communities
-- method/framework-development
-- topic/infrastructure
-- topic/trust
-- topic/epistemic-authority
-- topic/evaluation
-- topic/generative-ai
-- topic/accountability
-- stakeholder/researchers
-- stakeholder/institutions
-- stakeholder/publishers
-- stakeholder/communities
-- stakeholder/industry
-- tension/operational-assistance-v-epistemic-authority
-- tension/openness-v-enclosure
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - past-relation-to-oss-aligned-communities
+  - method-framework-development
+  - topic-infrastructure
+  - topic-trust
+  - topic-epistemic-authority
+  - topic-evaluation
+  - topic-generative-ai
+  - topic-accountability
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-publishers
+  - stakeholder-communities
+  - stakeholder-industry
+  - tension-operational-assistance-v-epistemic-authority
+  - tension-openness-v-enclosure
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # Sociotechnical Implications of Generative Artificial Intelligence for Information Access

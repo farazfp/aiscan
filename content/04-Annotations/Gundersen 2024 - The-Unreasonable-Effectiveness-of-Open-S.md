@@ -22,14 +22,14 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-science"
-  - "method/empirical"
-  - "topic/reproducibility"
-  - "topic/curation"
-  - "topic/transparency"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-open
+  - open-science
+  - method-empirical
+  - topic-reproducibility
+  - topic-curation
+  - topic-transparency
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # The Unreasonable Effectiveness of Open Science in AI: A Replication Study

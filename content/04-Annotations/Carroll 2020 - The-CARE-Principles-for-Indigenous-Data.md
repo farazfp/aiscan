@@ -1,4 +1,5 @@
 ---
+
 title: The CARE Principles for Indigenous Data Governance
 authors:
 - Carroll, Stephanie Russo, Ibrahim Garba, Óscar Luis Figueroa Rodríguez, Jarita Holbrook
@@ -33,22 +34,22 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-open
-- open-data
-- method/computational
-- method/framework-development
-- topic/open-data
-- topic/infrastructure
-- topic/consent
-- topic/epistemic-authority
-- topic/indigenous-knowledge
-- topic/machine-learning
-- stakeholder/institutions
-- tension/technical-capability-v-organizational-capacity
-- tension/operational-assistance-v-epistemic-authority
-- tension/openness-v-enclosure
-- cited-in-introduction
+  - annotation
+  - ai-and-open
+  - open-data
+  - method-computational
+  - method-framework-development
+  - topic-open-data
+  - topic-infrastructure
+  - topic-consent
+  - topic-epistemic-authority
+  - topic-indigenous-knowledge
+  - topic-machine-learning
+  - stakeholder-institutions
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
+  - tension-openness-v-enclosure
+  - cited-in-introduction
 ---
 
 # The CARE Principles for Indigenous Data Governance

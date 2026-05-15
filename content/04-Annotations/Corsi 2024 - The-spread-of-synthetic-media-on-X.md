@@ -30,21 +30,21 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "platforms"
-  - "method/empirical"
-  - "topic/generative-ai"
-  - "topic/reproducibility"
-  - "topic/misinformation"
-  - "topic/governance"
-  - "topic/transparency"
-  - "topic/surveillance"
-  - "stakeholder/researchers"
-  - "stakeholder/communities"
-  - "stakeholder/industry"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-social
+  - platforms
+  - method-empirical
+  - topic-generative-ai
+  - topic-reproducibility
+  - topic-misinformation
+  - topic-governance
+  - topic-transparency
+  - topic-surveillance
+  - stakeholder-researchers
+  - stakeholder-communities
+  - stakeholder-industry
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # The spread of synthetic media on X

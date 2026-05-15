@@ -28,19 +28,19 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "platforms"
-  - "method/computational"
-  - "topic/governance"
-  - "topic/infrastructure"
-  - "topic/automation"
-  - "topic/transparency"
-  - "topic/intellectual-property"
-  - "topic/misinformation"
-  - "stakeholder/communities"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-social
+  - platforms
+  - method-computational
+  - topic-governance
+  - topic-infrastructure
+  - topic-automation
+  - topic-transparency
+  - topic-intellectual-property
+  - topic-misinformation
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Algorithmic Content Moderation: Technical and Political Challenges in the Automation of Platform Governance

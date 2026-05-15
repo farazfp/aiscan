@@ -31,24 +31,24 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "infrastructures"
-  - "method/qualitative"
-  - "method/computational"
-  - "method/empirical"
-  - "method/design-research"
-  - "topic/governance"
-  - "topic/ai-ethics"
-  - "topic/infrastructure"
-  - "topic/diversity"
-  - "topic/interoperability"
-  - "topic/evaluation"
-  - "stakeholder/institutions"
-  - "stakeholder/publishers"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/efficiency-v-process"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - method-qualitative
+  - method-computational
+  - method-empirical
+  - method-design-research
+  - topic-governance
+  - topic-ai-ethics
+  - topic-infrastructure
+  - topic-diversity
+  - topic-interoperability
+  - topic-evaluation
+  - stakeholder-institutions
+  - stakeholder-publishers
+  - tension-technical-capability-v-organizational-capacity
+  - tension-efficiency-v-process
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Investigating Algorithm Review Boards for Organizational Responsible Artificial Intelligence Governance

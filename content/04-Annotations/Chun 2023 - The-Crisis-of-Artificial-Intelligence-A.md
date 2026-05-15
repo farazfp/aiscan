@@ -1,4 +1,5 @@
 ---
+
 title: "The Crisis of Artificial Intelligence: A New Digital Humanities Curriculum' for Human-Centred AI"
 authors:
 - Chun, J
@@ -29,23 +30,23 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- histories-and-theories-of-ai
-- method/computational
-- method/framework-development
-- method/design-research
-- topic/diversity
-- topic/epistemic-authority
-- topic/digital-humanities
-- topic/knowledge-production
-- stakeholder/researchers
-- stakeholder/students
-- stakeholder/communities
-- stakeholder/developers
-- tension/operational-assistance-v-epistemic-authority
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - histories-and-theories-of-ai
+  - method-computational
+  - method-framework-development
+  - method-design-research
+  - topic-diversity
+  - topic-epistemic-authority
+  - topic-digital-humanities
+  - topic-knowledge-production
+  - stakeholder-researchers
+  - stakeholder-students
+  - stakeholder-communities
+  - stakeholder-developers
+  - tension-operational-assistance-v-epistemic-authority
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # The Crisis of Artificial Intelligence: A New Digital Humanities Curriculum for Human-Centred AI

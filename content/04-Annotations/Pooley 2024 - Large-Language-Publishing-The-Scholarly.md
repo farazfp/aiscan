@@ -1,4 +1,5 @@
 ---
+
 title: 'Large Language Publishing: The Scholarly Publishing Oligopoly''s Bet on AI'
 authors:
 - Pooley, Jefferson
@@ -23,18 +24,18 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-open
-- open-access
-- method/framework-development
-- topic/surveillance
-- topic/accountability
-- topic/scholarly-communication
-- stakeholder/researchers
-- stakeholder/publishers
-- stakeholder/industry
-- tension/operational-assistance-v-epistemic-authority
-- cited-in-introduction
+  - annotation
+  - ai-and-open
+  - open-access
+  - method-framework-development
+  - topic-surveillance
+  - topic-accountability
+  - topic-scholarly-communication
+  - stakeholder-researchers
+  - stakeholder-publishers
+  - stakeholder-industry
+  - tension-operational-assistance-v-epistemic-authority
+  - cited-in-introduction
 ---
 
 # Large Language Publishing: The Scholarly Publishing Oligopoly's Bet on AI

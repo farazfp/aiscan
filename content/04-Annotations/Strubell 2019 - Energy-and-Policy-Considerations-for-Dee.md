@@ -27,20 +27,20 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "human-labour-and-environmental-costs"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/comparative"
-  - "topic/natural-language-processing"
-  - "topic/environmental-impact"
-  - "topic/machine-learning"
-  - "topic/equity"
-  - "topic/interoperability"
-  - "stakeholder/researchers"
-  - "stakeholder/industry"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - human-labour-and-environmental-costs
+  - method-computational
+  - method-framework-development
+  - method-comparative
+  - topic-natural-language-processing
+  - topic-environmental-impact
+  - topic-machine-learning
+  - topic-equity
+  - topic-interoperability
+  - stakeholder-researchers
+  - stakeholder-industry
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Energy and Policy Considerations for Deep Learning in NLP

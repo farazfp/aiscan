@@ -22,15 +22,15 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "critical-literacies"
-  - "method/framework-development"
-  - "method/empirical"
-  - "topic/evaluation"
-  - "topic/ai-ethics"
-  - "stakeholder/industry"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - critical-literacies
+  - method-framework-development
+  - method-empirical
+  - topic-evaluation
+  - topic-ai-ethics
+  - stakeholder-industry
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Conceptualizing AI Literacy: An Exploratory Review

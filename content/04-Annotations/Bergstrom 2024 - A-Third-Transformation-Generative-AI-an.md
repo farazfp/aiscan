@@ -1,4 +1,5 @@
 ---
+
 title: A Third Transformation? Generative AI and Scholarly Publishing
 authors:
 - Bergstrom, Tracy
@@ -34,25 +35,25 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-scholarship
-- infrastructures
-- method/qualitative
-- method/framework-development
-- topic/large-language-models
-- topic/transparency
-- topic/provenance
-- topic/research-integrity
-- topic/automation
-- topic/interoperability
-- stakeholder/researchers
-- stakeholder/publishers
-- stakeholder/industry
-- stakeholder/developers
-- tension/efficiency-v-process
-- tension/technical-capability-v-organizational-capacity
-- tension/operational-assistance-v-epistemic-authority
-- cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - method-qualitative
+  - method-framework-development
+  - topic-large-language-models
+  - topic-transparency
+  - topic-provenance
+  - topic-research-integrity
+  - topic-automation
+  - topic-interoperability
+  - stakeholder-researchers
+  - stakeholder-publishers
+  - stakeholder-industry
+  - stakeholder-developers
+  - tension-efficiency-v-process
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
+  - cited-in-introduction
 ---
 
 # A Third Transformation? Generative AI and Scholarly Publishing

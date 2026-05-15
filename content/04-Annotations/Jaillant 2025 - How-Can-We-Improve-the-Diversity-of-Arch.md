@@ -28,21 +28,21 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "audience"
-  - "method/qualitative"
-  - "method/design-research"
-  - "topic/diversity"
-  - "topic/bias"
-  - "topic/metadata"
-  - "stakeholder/researchers"
-  - "stakeholder/institutions"
-  - "stakeholder/industry"
-  - "stakeholder/developers"
-  - "stakeholder/librarians"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-scholarship
+  - audience
+  - method-qualitative
+  - method-design-research
+  - topic-diversity
+  - topic-bias
+  - topic-metadata
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-industry
+  - stakeholder-developers
+  - stakeholder-librarians
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # How Can We Improve the Diversity of Archival Collections with AI? Opportunities, Risks, and Solutions

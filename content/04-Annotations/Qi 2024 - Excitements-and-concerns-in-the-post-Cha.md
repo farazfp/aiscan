@@ -22,15 +22,15 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "community-connection-and-the-human"
-  - "method/quantitative"
-  - "method/framework-development"
-  - "topic/large-language-models"
-  - "topic/curation"
-  - "stakeholder/communities"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - community-connection-and-the-human
+  - method-quantitative
+  - method-framework-development
+  - topic-large-language-models
+  - topic-curation
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Excitements and concerns in the post-ChatGPT era: Deciphering public perception of AI through social media analysis

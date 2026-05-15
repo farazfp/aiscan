@@ -20,12 +20,12 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "essential-contexts"
-  - "knowledge-foundations"
-  - "method/case-study"
-  - "topic/open-access"
-  - "stakeholder/communities"
+  - annotation
+  - essential-contexts
+  - knowledge-foundations
+  - method-case-study
+  - topic-open-access
+  - stakeholder-communities
 ---
 
 # No Journal is an Island: The John Donne Journal and the Possibilities of Open Access

@@ -23,16 +23,16 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "human-labour-and-environmental-costs"
-  - "method/quantitative"
-  - "method/comparative"
-  - "topic/environmental-impact"
-  - "topic/generative-ai"
-  - "topic/citation"
-  - "tension/efficiency-v-process"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - human-labour-and-environmental-costs
+  - method-quantitative
+  - method-comparative
+  - topic-environmental-impact
+  - topic-generative-ai
+  - topic-citation
+  - tension-efficiency-v-process
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Environmental Impact of Generative AI: Carbon and Water Footprint

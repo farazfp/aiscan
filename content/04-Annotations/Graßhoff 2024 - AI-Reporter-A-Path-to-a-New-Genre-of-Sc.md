@@ -23,16 +23,16 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "forms-of-research-output"
-  - "topic/consent"
-  - "topic/metadata"
-  - "topic/scholarly-communication"
-  - "stakeholder/researchers"
-  - "stakeholder/communities"
-  - "tension/efficiency-v-process"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-scholarship
+  - forms-of-research-output
+  - topic-consent
+  - topic-metadata
+  - topic-scholarly-communication
+  - stakeholder-researchers
+  - stakeholder-communities
+  - tension-efficiency-v-process
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # AI-Reporter: A Path to a New Genre of Scientific Communication

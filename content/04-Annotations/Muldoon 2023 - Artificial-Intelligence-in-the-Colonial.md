@@ -28,22 +28,22 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "globalism-colonialism-and-influence"
-  - "method/framework-development"
-  - "topic/decolonization"
-  - "topic/labour"
-  - "topic/epistemic-authority"
-  - "topic/environmental-impact"
-  - "topic/knowledge-production"
-  - "topic/machine-learning"
-  - "stakeholder/researchers"
-  - "stakeholder/communities"
-  - "region/global-north"
-  - "region/global"
-  - "tension/operational-assistance-v-epistemic-authority"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - globalism-colonialism-and-influence
+  - method-framework-development
+  - topic-decolonization
+  - topic-labour
+  - topic-epistemic-authority
+  - topic-environmental-impact
+  - topic-knowledge-production
+  - topic-machine-learning
+  - stakeholder-researchers
+  - stakeholder-communities
+  - region-global-north
+  - region-global
+  - tension-operational-assistance-v-epistemic-authority
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Artificial Intelligence in the Colonial Matrix of Power

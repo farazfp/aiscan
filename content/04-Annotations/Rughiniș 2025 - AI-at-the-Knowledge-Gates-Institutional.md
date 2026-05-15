@@ -1,4 +1,5 @@
 ---
+
 title: "AI at the Knowledge Gates: Institutional Policies and Hybrid Configurations in Universities and Publishers"
 authors:
   - "Rughiniș, Cosima, et al"
@@ -31,26 +32,26 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-- cited-in-introduction
-  - "annotation"
-  - "ai-and-social"
-  - "governance-leadership-and-policy"
-  - "method/qualitative"
-  - "method/computational"
-  - "method/framework-development"
-  - "topic/transparency"
-  - "topic/explainability"
-  - "topic/governance"
-  - "topic/knowledge-production"
-  - "topic/ai-governance"
-  - "topic/training-data"
-  - "stakeholder/researchers"
-  - "stakeholder/institutions"
-  - "stakeholder/publishers"
-  - "stakeholder/policymakers"
-  - "stakeholder/developers"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - cited-in-introduction
+  - annotation
+  - ai-and-social
+  - governance-leadership-and-policy
+  - method-qualitative
+  - method-computational
+  - method-framework-development
+  - topic-transparency
+  - topic-explainability
+  - topic-governance
+  - topic-knowledge-production
+  - topic-ai-governance
+  - topic-training-data
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-publishers
+  - stakeholder-policymakers
+  - stakeholder-developers
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # AI at the Knowledge Gates: Institutional Policies and Hybrid Configurations in Universities and Publishers

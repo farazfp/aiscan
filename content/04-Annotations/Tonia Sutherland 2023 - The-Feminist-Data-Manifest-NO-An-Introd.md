@@ -29,22 +29,22 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "diversity-determinism-bias-and-justice"
-  - "method/framework-development"
-  - "topic/open-education"
-  - "topic/consent"
-  - "topic/data-sovereignty"
-  - "topic/decolonization"
-  - "topic/accessibility"
-  - "topic/digital-humanities"
-  - "stakeholder/researchers"
-  - "stakeholder/institutions"
-  - "stakeholder/publishers"
-  - "region/global-south"
-  - "region/north-america"
-  - "region/africa"
+  - annotation
+  - ai-and-social
+  - diversity-determinism-bias-and-justice
+  - method-framework-development
+  - topic-open-education
+  - topic-consent
+  - topic-data-sovereignty
+  - topic-decolonization
+  - topic-accessibility
+  - topic-digital-humanities
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-publishers
+  - region-global-south
+  - region-north-america
+  - region-africa
 ---
 
 # The Feminist Data Manifest-NO: An Introduction and Four Reflections

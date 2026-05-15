@@ -1,4 +1,5 @@
 ---
+
 title: "ChatGPT in the Classroom: Evaluating Its Role in Fostering Critical Evaluation' Skills"
 authors:
 - Oates, A
@@ -30,24 +31,24 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-scholarship
-- teaching-and-pedagogy
-- method/critical-analysis
-- method/comparative
-- method/empirical
-- method/design-research
-- topic/large-language-models
-- topic/evaluation
-- topic/transparency
-- topic/interoperability
-- topic/reproducibility
-- topic/citation
-- stakeholder/researchers
-- stakeholder/students
-- tension/operational-assistance-v-epistemic-authority
-- tension/efficiency-v-process
-- cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - teaching-and-pedagogy
+  - method-critical-analysis
+  - method-comparative
+  - method-empirical
+  - method-design-research
+  - topic-large-language-models
+  - topic-evaluation
+  - topic-transparency
+  - topic-interoperability
+  - topic-reproducibility
+  - topic-citation
+  - stakeholder-researchers
+  - stakeholder-students
+  - tension-operational-assistance-v-epistemic-authority
+  - tension-efficiency-v-process
+  - cited-in-introduction
 ---
 
 # ChatGPT in the Classroom: Evaluating Its Role in Fostering Critical Evaluation Skills

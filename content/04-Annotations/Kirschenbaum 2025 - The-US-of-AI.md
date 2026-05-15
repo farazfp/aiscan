@@ -27,21 +27,21 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "governance-leadership-and-policy"
-  - "method/theoretical"
-  - "topic/large-language-models"
-  - "topic/infrastructure"
-  - "topic/governance"
-  - "topic/bias"
-  - "topic/training-data"
-  - "stakeholder/policymakers"
-  - "stakeholder/communities"
-  - "stakeholder/industry"
-  - "stakeholder/developers"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-social
+  - governance-leadership-and-policy
+  - method-theoretical
+  - topic-large-language-models
+  - topic-infrastructure
+  - topic-governance
+  - topic-bias
+  - topic-training-data
+  - stakeholder-policymakers
+  - stakeholder-communities
+  - stakeholder-industry
+  - stakeholder-developers
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # The US of AI,

@@ -26,19 +26,19 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "governance-leadership-and-policy"
-  - "method/literature-review"
-  - "method/framework-development"
-  - "topic/governance"
-  - "topic/ai-ethics"
-  - "topic/ai-governance"
-  - "topic/transparency"
-  - "topic/interoperability"
-  - "stakeholder/policymakers"
-  - "stakeholder/industry"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - governance-leadership-and-policy
+  - method-literature-review
+  - method-framework-development
+  - topic-governance
+  - topic-ai-ethics
+  - topic-ai-governance
+  - topic-transparency
+  - topic-interoperability
+  - stakeholder-policymakers
+  - stakeholder-industry
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # AI Governance: Themes, Knowledge Gaps and Future Agendas

@@ -24,16 +24,16 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "audience"
-  - "method/framework-development"
-  - "method/empirical"
-  - "topic/large-language-models"
-  - "topic/epistemic-authority"
-  - "topic/evaluation"
-  - "tension/operational-assistance-v-epistemic-authority"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - audience
+  - method-framework-development
+  - method-empirical
+  - topic-large-language-models
+  - topic-epistemic-authority
+  - topic-evaluation
+  - tension-operational-assistance-v-epistemic-authority
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Generalization Bias in Large Language Model Summarization of Scientific Research

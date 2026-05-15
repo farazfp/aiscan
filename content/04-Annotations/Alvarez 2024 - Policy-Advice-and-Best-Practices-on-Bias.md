@@ -25,19 +25,19 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "diversity-determinism-bias-and-justice"
-  - "method/quantitative"
-  - "method/framework-development"
-  - "method/critical-analysis"
-  - "method/design-research"
-  - "topic/bias"
-  - "topic/evaluation"
-  - "topic/participation"
-  - "topic/training-data"
-  - "region/europe"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - diversity-determinism-bias-and-justice
+  - method-quantitative
+  - method-framework-development
+  - method-critical-analysis
+  - method-design-research
+  - topic-bias
+  - topic-evaluation
+  - topic-participation
+  - topic-training-data
+  - region-europe
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Policy Advice and Best Practices on Bias and Fairness in AI

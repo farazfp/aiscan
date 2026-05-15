@@ -29,21 +29,21 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "audience"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/empirical"
-  - "topic/generative-ai"
-  - "topic/knowledge-production"
-  - "topic/diversity"
-  - "topic/participation"
-  - "topic/infrastructure"
-  - "topic/evaluation"
-  - "stakeholder/communities"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-scholarship
+  - audience
+  - method-computational
+  - method-framework-development
+  - method-empirical
+  - topic-generative-ai
+  - topic-knowledge-production
+  - topic-diversity
+  - topic-participation
+  - topic-infrastructure
+  - topic-evaluation
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Exploring the Dynamics of Interaction About Generative Artificial Intelligence Between Experts and the Public on Social Media

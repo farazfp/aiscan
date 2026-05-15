@@ -32,21 +32,21 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "research-methods-and-practices"
-  - "method/computational"
-  - "method/framework-development"
-  - "topic/large-language-models"
-  - "topic/generative-ai"
-  - "topic/automation"
-  - "topic/infrastructure"
-  - "topic/open-source"
-  - "topic/transparency"
-  - "stakeholder/researchers"
-  - "stakeholder/industry"
-  - "stakeholder/developers"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - research-methods-and-practices
+  - method-computational
+  - method-framework-development
+  - topic-large-language-models
+  - topic-generative-ai
+  - topic-automation
+  - topic-infrastructure
+  - topic-open-source
+  - topic-transparency
+  - stakeholder-researchers
+  - stakeholder-industry
+  - stakeholder-developers
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Can Generative Artiﬁcial Intelligence Improve Social Science?

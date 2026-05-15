@@ -27,21 +27,21 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "governance-leadership-and-policy"
-  - "method/framework-development"
-  - "method/theoretical"
-  - "topic/governance"
-  - "topic/ai-governance"
-  - "topic/explainability"
-  - "topic/accountability"
-  - "topic/transparency"
-  - "topic/diversity"
-  - "stakeholder/policymakers"
-  - "stakeholder/developers"
-  - "region/global"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - governance-leadership-and-policy
+  - method-framework-development
+  - method-theoretical
+  - topic-governance
+  - topic-ai-governance
+  - topic-explainability
+  - topic-accountability
+  - topic-transparency
+  - topic-diversity
+  - stakeholder-policymakers
+  - stakeholder-developers
+  - region-global
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # A Layered Model for AI Governance

@@ -1,4 +1,5 @@
 ---
+
 title: "Betting on (Un)Certain Futures: Sociotechnical Imaginaries of AI and Varieties' of Techno-Developmentalism in Asia"
 authors:
 - Chung, Hiu-Fung
@@ -27,26 +28,26 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- histories-and-theories-of-ai
-- method/qualitative
-- method/computational
-- method/framework-development
-- method/comparative
-- topic/governance
-- topic/infrastructure
-- topic/automation
-- topic/ai-governance
-- topic/decolonization
-- stakeholder/researchers
-- stakeholder/institutions
-- region/global-north
-- region/north-america
-- region/asia
-- region/global
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - histories-and-theories-of-ai
+  - method-qualitative
+  - method-computational
+  - method-framework-development
+  - method-comparative
+  - topic-governance
+  - topic-infrastructure
+  - topic-automation
+  - topic-ai-governance
+  - topic-decolonization
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - region-global-north
+  - region-north-america
+  - region-asia
+  - region-global
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # Betting on (Un)Certain Futures: Sociotechnical Imaginaries of AI and Varieties of Techno-Developmentalism in Asia

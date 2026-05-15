@@ -1,4 +1,5 @@
 ---
+
 title: Why Artificial Intelligence Is a Misnomer
 authors:
 - Whiteley, Paul
@@ -19,13 +20,13 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- histories-and-theories-of-ai
-- method/quantitative
-- method/computational
-- topic/diversity
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - histories-and-theories-of-ai
+  - method-quantitative
+  - method-computational
+  - topic-diversity
+  - cited-in-introduction
 ---
 
 # Why Artificial Intelligence Is a Misnomer

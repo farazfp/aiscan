@@ -23,16 +23,16 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "community-connection-and-the-human"
-  - "method/framework-development"
-  - "topic/indigenous-knowledge"
-  - "topic/diversity"
-  - "stakeholder/researchers"
-  - "stakeholder/communities"
-  - "stakeholder/developers"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-social
+  - community-connection-and-the-human
+  - method-framework-development
+  - topic-indigenous-knowledge
+  - topic-diversity
+  - stakeholder-researchers
+  - stakeholder-communities
+  - stakeholder-developers
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Making Kin with the Machines

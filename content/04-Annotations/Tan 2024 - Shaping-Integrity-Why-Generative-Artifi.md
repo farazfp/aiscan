@@ -1,4 +1,5 @@
 ---
+
 title: "Shaping Integrity: Why Generative Artificial Intelligence Does Not Have to' Undermine Education"
 authors:
 - Tan, Myles Joshua Toledo
@@ -30,24 +31,24 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-scholarship
-- teaching-and-pedagogy
-- method/framework-development
-- method/comparative
-- method/theoretical
-- method/design-research
-- topic/evaluation
-- topic/transparency
-- topic/epistemic-authority
-- topic/generative-ai
-- topic/research-integrity
-- topic/citation
-- stakeholder/researchers
-- stakeholder/students
-- tension/operational-assistance-v-epistemic-authority
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - teaching-and-pedagogy
+  - method-framework-development
+  - method-comparative
+  - method-theoretical
+  - method-design-research
+  - topic-evaluation
+  - topic-transparency
+  - topic-epistemic-authority
+  - topic-generative-ai
+  - topic-research-integrity
+  - topic-citation
+  - stakeholder-researchers
+  - stakeholder-students
+  - tension-operational-assistance-v-epistemic-authority
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # Shaping Integrity: Why Generative Artificial Intelligence Does Not Have to Undermine Education

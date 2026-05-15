@@ -23,17 +23,17 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-source"
-  - "method/quantitative"
-  - "method/framework-development"
-  - "topic/governance"
-  - "topic/surveillance"
-  - "stakeholder/policymakers"
-  - "stakeholder/industry"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/efficiency-v-process"
+  - annotation
+  - ai-and-open
+  - open-source
+  - method-quantitative
+  - method-framework-development
+  - topic-governance
+  - topic-surveillance
+  - stakeholder-policymakers
+  - stakeholder-industry
+  - tension-technical-capability-v-organizational-capacity
+  - tension-efficiency-v-process
 ---
 
 # Steering the Governance of Artificial Intelligence: National Strategies in Perspective

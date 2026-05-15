@@ -1,4 +1,5 @@
 ---
+
 title: "Prompt Engineering in Higher Education: A Systematic Review to Help Inform' Curricula"
 authors:
 - Lee, Daniel
@@ -28,22 +29,22 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-scholarship
-- teaching-and-pedagogy
-- method/literature-review
-- method/framework-development
-- method/design-research
-- topic/large-language-models
-- topic/bias
-- topic/hallucination
-- topic/training-data
-- stakeholder/researchers
-- stakeholder/institutions
-- stakeholder/students
-- stakeholder/developers
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - teaching-and-pedagogy
+  - method-literature-review
+  - method-framework-development
+  - method-design-research
+  - topic-large-language-models
+  - topic-bias
+  - topic-hallucination
+  - topic-training-data
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-students
+  - stakeholder-developers
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # Prompt Engineering in Higher Education: A Systematic Review to Help Inform Curricula

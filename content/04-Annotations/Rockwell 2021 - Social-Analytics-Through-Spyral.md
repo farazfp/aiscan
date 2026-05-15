@@ -22,13 +22,13 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "essential-contexts"
-  - "knowledge-foundations"
-  - "topic/diversity"
-  - "topic/evaluation"
-  - "stakeholder/researchers"
-  - "stakeholder/communities"
+  - annotation
+  - essential-contexts
+  - knowledge-foundations
+  - topic-diversity
+  - topic-evaluation
+  - stakeholder-researchers
+  - stakeholder-communities
 ---
 
 # Social Analytics Through Spyral

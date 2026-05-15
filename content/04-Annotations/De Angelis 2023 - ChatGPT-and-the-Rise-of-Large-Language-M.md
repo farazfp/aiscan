@@ -29,21 +29,21 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "audience"
-  - "method/framework-development"
-  - "topic/large-language-models"
-  - "topic/epistemic-authority"
-  - "topic/trust"
-  - "topic/hallucination"
-  - "topic/governance"
-  - "topic/misinformation"
-  - "stakeholder/institutions"
-  - "stakeholder/communities"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/efficiency-v-process"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-scholarship
+  - audience
+  - method-framework-development
+  - topic-large-language-models
+  - topic-epistemic-authority
+  - topic-trust
+  - topic-hallucination
+  - topic-governance
+  - topic-misinformation
+  - stakeholder-institutions
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
+  - tension-efficiency-v-process
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # ChatGPT and the Rise of Large Language Models: The New AI-Driven Infodemic Threat in Public Health

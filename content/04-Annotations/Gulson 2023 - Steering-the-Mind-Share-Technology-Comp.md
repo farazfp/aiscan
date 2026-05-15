@@ -25,20 +25,20 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "infrastructures"
-  - "method/qualitative"
-  - "method/framework-development"
-  - "topic/open-science"
-  - "topic/governance"
-  - "stakeholder/researchers"
-  - "stakeholder/institutions"
-  - "stakeholder/policymakers"
-  - "stakeholder/industry"
-  - "region/north-america"
-  - "region/global"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - method-qualitative
+  - method-framework-development
+  - topic-open-science
+  - topic-governance
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-policymakers
+  - stakeholder-industry
+  - region-north-america
+  - region-global
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Steering the Mind Share: Technology Companies, Policy and Artificial Intelligence Research in Universities

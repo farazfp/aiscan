@@ -25,17 +25,17 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "diversity-determinism-bias-and-justice"
-  - "method/framework-development"
-  - "method/empirical"
-  - "topic/evaluation"
-  - "topic/automation"
-  - "topic/citation"
-  - "topic/transparency"
-  - "stakeholder/publishers"
-  - "stakeholder/industry"
+  - annotation
+  - ai-and-social
+  - diversity-determinism-bias-and-justice
+  - method-framework-development
+  - method-empirical
+  - topic-evaluation
+  - topic-automation
+  - topic-citation
+  - topic-transparency
+  - stakeholder-publishers
+  - stakeholder-industry
 ---
 
 # A Justice-Based Framework for the Analysis of Algorithmic Fairness-Utility Trade-Offs

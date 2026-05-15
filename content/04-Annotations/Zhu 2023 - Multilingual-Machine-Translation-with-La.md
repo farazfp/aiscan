@@ -22,14 +22,14 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "research-methods-and-practices"
-  - "method/comparative"
-  - "method/empirical"
-  - "topic/large-language-models"
-  - "topic/generative-ai"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - research-methods-and-practices
+  - method-comparative
+  - method-empirical
+  - topic-large-language-models
+  - topic-generative-ai
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis

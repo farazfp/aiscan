@@ -8,7 +8,7 @@ created: "2026-05-14"
 publish: true
 tags:
   - home
-  - MOC
+  - moc
   - navigation
 ---
 

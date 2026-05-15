@@ -23,17 +23,17 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "governance-leadership-and-policy"
-  - "method/framework-development"
-  - "topic/governance"
-  - "topic/equity"
-  - "stakeholder/researchers"
-  - "stakeholder/policymakers"
-  - "stakeholder/communities"
-  - "tension/efficiency-v-process"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - governance-leadership-and-policy
+  - method-framework-development
+  - topic-governance
+  - topic-equity
+  - stakeholder-researchers
+  - stakeholder-policymakers
+  - stakeholder-communities
+  - tension-efficiency-v-process
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Artificial Intelligence in Educational Leadership: A Comprehensive Taxonomy and Future Directions

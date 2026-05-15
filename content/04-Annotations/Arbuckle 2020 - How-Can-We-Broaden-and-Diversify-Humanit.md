@@ -1,4 +1,5 @@
 ---
+
 title: How Can We Broaden and Diversify Humanities Knowledge Translation?
 authors:
 - Arbuckle, A
@@ -19,14 +20,14 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- knowledge-foundations
-- topic/diversity
-- topic/participation
-- stakeholder/researchers
-- stakeholder/communities
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - knowledge-foundations
+  - topic-diversity
+  - topic-participation
+  - stakeholder-researchers
+  - stakeholder-communities
+  - cited-in-introduction
 ---
 
 # How Can We Broaden and Diversify Humanities Knowledge Translation?

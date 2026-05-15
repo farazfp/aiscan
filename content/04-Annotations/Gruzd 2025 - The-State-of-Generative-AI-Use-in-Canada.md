@@ -27,20 +27,20 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "community-connection-and-the-human"
-  - "method/quantitative"
-  - "topic/generative-ai"
-  - "topic/trust"
-  - "topic/accountability"
-  - "topic/accessibility"
-  - "stakeholder/institutions"
-  - "stakeholder/policymakers"
-  - "stakeholder/communities"
-  - "stakeholder/industry"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-social
+  - community-connection-and-the-human
+  - method-quantitative
+  - topic-generative-ai
+  - topic-trust
+  - topic-accountability
+  - topic-accessibility
+  - stakeholder-institutions
+  - stakeholder-policymakers
+  - stakeholder-communities
+  - stakeholder-industry
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # The State of Generative AI Use in Canada 2025: Exploring Public Attitudes and Adoption Trends

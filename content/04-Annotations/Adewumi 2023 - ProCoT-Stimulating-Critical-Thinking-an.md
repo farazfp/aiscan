@@ -28,19 +28,19 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "teaching-and-pedagogy"
-  - "method/design-research"
-  - "topic/large-language-models"
-  - "topic/hallucination"
-  - "topic/transparency"
-  - "topic/bias"
-  - "topic/trust"
-  - "topic/peer-review"
-  - "stakeholder/researchers"
-  - "stakeholder/students"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - teaching-and-pedagogy
+  - method-design-research
+  - topic-large-language-models
+  - topic-hallucination
+  - topic-transparency
+  - topic-bias
+  - topic-trust
+  - topic-peer-review
+  - stakeholder-researchers
+  - stakeholder-students
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # ProCoT: Stimulating Critical Thinking and Writing of Students through Engagement with Large Language Models (LLMs)

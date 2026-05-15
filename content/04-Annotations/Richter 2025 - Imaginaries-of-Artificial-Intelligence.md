@@ -1,4 +1,5 @@
 ---
+
 title: Imaginaries of Artificial Intelligence
 authors:
 - Richter, V., Katzenbach, C
@@ -32,29 +33,29 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- histories-and-theories-of-ai
-- method/qualitative
-- method/framework-development
-- method/comparative
-- topic/governance
-- topic/knowledge-production
-- topic/automation
-- topic/accountability
-- topic/evaluation
-- stakeholder/researchers
-- stakeholder/institutions
-- stakeholder/policymakers
-- stakeholder/communities
-- stakeholder/industry
-- stakeholder/developers
-- region/europe
-- region/north-america
-- region/asia
-- tension/technical-capability-v-organizational-capacity
-- tension/efficiency-v-process
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - histories-and-theories-of-ai
+  - method-qualitative
+  - method-framework-development
+  - method-comparative
+  - topic-governance
+  - topic-knowledge-production
+  - topic-automation
+  - topic-accountability
+  - topic-evaluation
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-policymakers
+  - stakeholder-communities
+  - stakeholder-industry
+  - stakeholder-developers
+  - region-europe
+  - region-north-america
+  - region-asia
+  - tension-technical-capability-v-organizational-capacity
+  - tension-efficiency-v-process
+  - cited-in-introduction
 ---
 
 # Imaginaries of Artificial Intelligence

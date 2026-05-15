@@ -26,19 +26,19 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-science"
-  - "method/computational"
-  - "topic/open-science"
-  - "topic/open-source"
-  - "topic/governance"
-  - "topic/accessibility"
-  - "stakeholder/institutions"
-  - "stakeholder/policymakers"
-  - "stakeholder/communities"
-  - "tension/openness-v-enclosure"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-open
+  - open-science
+  - method-computational
+  - topic-open-science
+  - topic-open-source
+  - topic-governance
+  - topic-accessibility
+  - stakeholder-institutions
+  - stakeholder-policymakers
+  - stakeholder-communities
+  - tension-openness-v-enclosure
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Generative AI Poses Ethical Challenges for Open Science

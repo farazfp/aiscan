@@ -24,17 +24,17 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "essential-contexts"
-  - "histories-and-theories-of-ai"
-  - "method/case-study"
-  - "method/quantitative"
-  - "method/framework-development"
-  - "method/theoretical"
-  - "topic/large-language-models"
-  - "topic/research-integrity"
-  - "stakeholder/researchers"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - essential-contexts
+  - histories-and-theories-of-ai
+  - method-case-study
+  - method-quantitative
+  - method-framework-development
+  - method-theoretical
+  - topic-large-language-models
+  - topic-research-integrity
+  - stakeholder-researchers
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # From Google Gemini to OpenAI Q* (Q-Star): A Survey of Reshaping the Generative Artificial Intelligence (AI) Research Landscape

@@ -1,4 +1,5 @@
 ---
+
 title: Operationalizing the CARE and FAIR Principles for Indigenous Data Futures
 authors:
 - Carroll, Stephanie Russo, Edit Herczog, Māui Hudson, Keith Russell
@@ -26,19 +27,19 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-open
-- open-data
-- method/framework-development
-- topic/fair-principles
-- topic/governance
-- topic/accessibility
-- topic/interoperability
-- topic/indigenous-knowledge
-- topic/open-data
-- stakeholder/communities
-- tension/operational-assistance-v-epistemic-authority
-- cited-in-introduction
+  - annotation
+  - ai-and-open
+  - open-data
+  - method-framework-development
+  - topic-fair-principles
+  - topic-governance
+  - topic-accessibility
+  - topic-interoperability
+  - topic-indigenous-knowledge
+  - topic-open-data
+  - stakeholder-communities
+  - tension-operational-assistance-v-epistemic-authority
+  - cited-in-introduction
 ---
 
 # Operationalizing the CARE and FAIR Principles for Indigenous Data Futures

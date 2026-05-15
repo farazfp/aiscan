@@ -32,23 +32,23 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "critical-literacies"
-  - "method/literature-review"
-  - "method/qualitative"
-  - "method/quantitative"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/design-research"
-  - "topic/infrastructure"
-  - "topic/reproducibility"
-  - "topic/misinformation"
-  - "topic/governance"
-  - "topic/transparency"
-  - "topic/diversity"
-  - "stakeholder/communities"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - critical-literacies
+  - method-literature-review
+  - method-qualitative
+  - method-quantitative
+  - method-computational
+  - method-framework-development
+  - method-design-research
+  - topic-infrastructure
+  - topic-reproducibility
+  - topic-misinformation
+  - topic-governance
+  - topic-transparency
+  - topic-diversity
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Data Citizenship: Rethinking Data Literacy in the Age of Disinformation, Misinformation, and Malinformation

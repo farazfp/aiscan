@@ -29,22 +29,22 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-data"
-  - "method/qualitative"
-  - "method/framework-development"
-  - "method/design-research"
-  - "topic/machine-learning"
-  - "topic/ai-ethics"
-  - "topic/transparency"
-  - "topic/accountability"
-  - "topic/interoperability"
-  - "topic/training-data"
-  - "stakeholder/researchers"
-  - "stakeholder/publishers"
-  - "stakeholder/industry"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-open
+  - open-data
+  - method-qualitative
+  - method-framework-development
+  - method-design-research
+  - topic-machine-learning
+  - topic-ai-ethics
+  - topic-transparency
+  - topic-accountability
+  - topic-interoperability
+  - topic-training-data
+  - stakeholder-researchers
+  - stakeholder-publishers
+  - stakeholder-industry
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Understanding Machine Learning Practitioners' Data Documentation Perceptions, Needs, Challenges, and Desiderata

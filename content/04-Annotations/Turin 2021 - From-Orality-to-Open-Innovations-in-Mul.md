@@ -21,13 +21,13 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "essential-contexts"
-  - "knowledge-foundations"
-  - "topic/infrastructure"
-  - "topic/interoperability"
-  - "stakeholder/researchers"
-  - "stakeholder/communities"
+  - annotation
+  - essential-contexts
+  - knowledge-foundations
+  - topic-infrastructure
+  - topic-interoperability
+  - stakeholder-researchers
+  - stakeholder-communities
 ---
 
 # From Orality to Open: Innovations in Multimedia Monograph Publishing in the Humanities

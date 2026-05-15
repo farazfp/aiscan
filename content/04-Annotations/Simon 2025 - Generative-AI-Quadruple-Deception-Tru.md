@@ -24,17 +24,17 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "human-labour-and-environmental-costs"
-  - "method/design-research"
-  - "topic/generative-ai"
-  - "topic/large-language-models"
-  - "topic/governance"
-  - "topic/citation"
-  - "tension/efficiency-v-process"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-social
+  - human-labour-and-environmental-costs
+  - method-design-research
+  - topic-generative-ai
+  - topic-large-language-models
+  - topic-governance
+  - topic-citation
+  - tension-efficiency-v-process
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Generative AI, Quadruple Deception & Trust

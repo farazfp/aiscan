@@ -30,23 +30,23 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "teaching-and-pedagogy"
-  - "method/literature-review"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/critical-analysis"
-  - "topic/bias"
-  - "topic/epistemic-authority"
-  - "topic/automation"
-  - "topic/accessibility"
-  - "topic/infrastructure"
-  - "topic/training-data"
-  - "stakeholder/researchers"
-  - "stakeholder/students"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-scholarship
+  - teaching-and-pedagogy
+  - method-literature-review
+  - method-computational
+  - method-framework-development
+  - method-critical-analysis
+  - topic-bias
+  - topic-epistemic-authority
+  - topic-automation
+  - topic-accessibility
+  - topic-infrastructure
+  - topic-training-data
+  - stakeholder-researchers
+  - stakeholder-students
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Artificial Intelligence (AI) Learning Tools in K-12 Education: A Scoping Review

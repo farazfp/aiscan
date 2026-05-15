@@ -24,18 +24,18 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "forms-of-research-output"
-  - "method/case-study"
-  - "method/qualitative"
-  - "method/theoretical"
-  - "method/design-research"
-  - "topic/generative-ai"
-  - "stakeholder/researchers"
-  - "stakeholder/students"
-  - "tension/efficiency-v-process"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - forms-of-research-output
+  - method-case-study
+  - method-qualitative
+  - method-theoretical
+  - method-design-research
+  - topic-generative-ai
+  - stakeholder-researchers
+  - stakeholder-students
+  - tension-efficiency-v-process
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # When generative artificial intelligence meets multimodal composition: Rethinking the composition process through an AI-assisted design project

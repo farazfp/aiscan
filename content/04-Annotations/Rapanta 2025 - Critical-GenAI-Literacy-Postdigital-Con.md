@@ -30,23 +30,23 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "critical-literacies"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/theoretical"
-  - "topic/generative-ai"
-  - "topic/large-language-models"
-  - "topic/epistemic-authority"
-  - "topic/hallucination"
-  - "topic/explainability"
-  - "topic/accountability"
-  - "stakeholder/researchers"
-  - "stakeholder/students"
-  - "region/global-north"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-social
+  - critical-literacies
+  - method-computational
+  - method-framework-development
+  - method-theoretical
+  - topic-generative-ai
+  - topic-large-language-models
+  - topic-epistemic-authority
+  - topic-hallucination
+  - topic-explainability
+  - topic-accountability
+  - stakeholder-researchers
+  - stakeholder-students
+  - region-global-north
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Critical GenAI Literacy: Postdigital Configurations

@@ -1,4 +1,5 @@
 ---
+
 title: 'Large Language Models in Peer Review: Challenges and Opportunities'
 authors:
 - Sun, Zhuanlan
@@ -31,25 +32,25 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-scholarship
-- service-and-peer-review
-- method/quantitative
-- method/framework-development
-- method/theoretical
-- method/design-research
-- topic/large-language-models
-- topic/evaluation
-- topic/bias
-- topic/infrastructure
-- topic/interoperability
-- topic/peer-review
-- stakeholder/researchers
-- stakeholder/developers
-- tension/operational-assistance-v-epistemic-authority
-- tension/technical-capability-v-organizational-capacity
-- tension/efficiency-v-process
-- cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - service-and-peer-review
+  - method-quantitative
+  - method-framework-development
+  - method-theoretical
+  - method-design-research
+  - topic-large-language-models
+  - topic-evaluation
+  - topic-bias
+  - topic-infrastructure
+  - topic-interoperability
+  - topic-peer-review
+  - stakeholder-researchers
+  - stakeholder-developers
+  - tension-operational-assistance-v-epistemic-authority
+  - tension-technical-capability-v-organizational-capacity
+  - tension-efficiency-v-process
+  - cited-in-introduction
 ---
 
 # Large Language Models in Peer Review: Challenges and Opportunities

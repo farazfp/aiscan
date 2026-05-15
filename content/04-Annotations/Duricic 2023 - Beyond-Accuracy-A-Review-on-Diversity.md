@@ -25,17 +25,17 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "platforms"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/design-research"
-  - "topic/bias"
-  - "topic/diversity"
-  - "topic/machine-learning"
-  - "topic/evaluation"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - platforms
+  - method-computational
+  - method-framework-development
+  - method-design-research
+  - topic-bias
+  - topic-diversity
+  - topic-machine-learning
+  - topic-evaluation
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Beyond-Accuracy: A Review on Diversity, Serendipity, and Fairness in Recommender Systems Based on Graph Neural Networks

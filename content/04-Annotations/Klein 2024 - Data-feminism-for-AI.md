@@ -26,18 +26,18 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "diversity-determinism-bias-and-justice"
-  - "method/framework-development"
-  - "method/critical-analysis"
-  - "topic/environmental-impact"
-  - "topic/generative-ai"
-  - "topic/consent"
-  - "topic/equity"
-  - "topic/decolonization"
-  - "topic/evaluation"
-  - "stakeholder/industry"
+  - annotation
+  - ai-and-social
+  - diversity-determinism-bias-and-justice
+  - method-framework-development
+  - method-critical-analysis
+  - topic-environmental-impact
+  - topic-generative-ai
+  - topic-consent
+  - topic-equity
+  - topic-decolonization
+  - topic-evaluation
+  - stakeholder-industry
 ---
 
 # Data feminism for AI

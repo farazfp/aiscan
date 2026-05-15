@@ -1,4 +1,5 @@
 ---
+
 title: Provocations from the Humanities for Generative AI Research
 authors:
 - Klein, L., Martin, M., Brock, A., Antoniak, M., Walsh, M., Johnson, J. M., Tilton,
@@ -28,23 +29,23 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- histories-and-theories-of-ai
-- method/quantitative
-- method/framework-development
-- topic/bias
-- topic/open-scholarship
-- topic/curation
-- topic/training-data
-- stakeholder/researchers
-- stakeholder/institutions
-- stakeholder/publishers
-- stakeholder/industry
-- region/global-north
-- region/europe
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - histories-and-theories-of-ai
+  - method-quantitative
+  - method-framework-development
+  - topic-bias
+  - topic-open-scholarship
+  - topic-curation
+  - topic-training-data
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-publishers
+  - stakeholder-industry
+  - region-global-north
+  - region-europe
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # Provocations from the Humanities for Generative AI Research

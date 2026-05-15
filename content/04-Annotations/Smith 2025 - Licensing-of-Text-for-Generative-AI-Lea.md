@@ -1,4 +1,5 @@
 ---
+
 title: 'Licensing of Text for Generative AI: Learnings from Non-AI Licensing Practices'
 authors:
 - Smith, Regan
@@ -33,23 +34,23 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-open
-- open-access
-- method/quantitative
-- method/framework-development
-- topic/infrastructure
-- topic/provenance
-- topic/generative-ai
-- topic/machine-learning
-- topic/open-access
-- topic/creative-commons
-- stakeholder/researchers
-- stakeholder/publishers
-- stakeholder/policymakers
-- stakeholder/developers
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - ai-and-open
+  - open-access
+  - method-quantitative
+  - method-framework-development
+  - topic-infrastructure
+  - topic-provenance
+  - topic-generative-ai
+  - topic-machine-learning
+  - topic-open-access
+  - topic-creative-commons
+  - stakeholder-researchers
+  - stakeholder-publishers
+  - stakeholder-policymakers
+  - stakeholder-developers
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # Licensing of Text for Generative AI: Learnings from Non-AI Licensing Practices

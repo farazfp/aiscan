@@ -33,19 +33,19 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "research-methods-and-practices"
-  - "method/framework-development"
-  - "topic/generative-ai"
-  - "topic/consent"
-  - "topic/machine-learning"
-  - "topic/creative-commons"
-  - "topic/intellectual-property"
-  - "topic/diversity"
-  - "stakeholder/researchers"
-  - "stakeholder/publishers"
-  - "tension/openness-v-enclosure"
+  - annotation
+  - ai-and-scholarship
+  - research-methods-and-practices
+  - method-framework-development
+  - topic-generative-ai
+  - topic-consent
+  - topic-machine-learning
+  - topic-creative-commons
+  - topic-intellectual-property
+  - topic-diversity
+  - stakeholder-researchers
+  - stakeholder-publishers
+  - tension-openness-v-enclosure
 ---
 
 # Empowering Knowledge through AI: Open Scholarship Proactively Supporting Well Trained Generative AI

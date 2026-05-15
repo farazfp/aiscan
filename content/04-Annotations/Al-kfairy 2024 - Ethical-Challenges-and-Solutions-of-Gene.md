@@ -31,21 +31,21 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "diversity-determinism-bias-and-justice"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/critical-analysis"
-  - "topic/generative-ai"
-  - "topic/intellectual-property"
-  - "topic/algorithmic-bias"
-  - "topic/governance"
-  - "topic/transparency"
-  - "topic/bias"
-  - "stakeholder/institutions"
-  - "stakeholder/policymakers"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - diversity-determinism-bias-and-justice
+  - method-computational
+  - method-framework-development
+  - method-critical-analysis
+  - topic-generative-ai
+  - topic-intellectual-property
+  - topic-algorithmic-bias
+  - topic-governance
+  - topic-transparency
+  - topic-bias
+  - stakeholder-institutions
+  - stakeholder-policymakers
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Ethical Challenges and Solutions of Generative AI: An Interdisciplinary Perspective

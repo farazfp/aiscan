@@ -20,11 +20,11 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "essential-contexts"
-  - "knowledge-foundations"
-  - "topic/open-access"
-  - "topic/infrastructure"
+  - annotation
+  - essential-contexts
+  - knowledge-foundations
+  - topic-open-access
+  - topic-infrastructure
 ---
 
 # Integrating the Social Media Engine with Large-scale Open Access Repositories: A Discussion

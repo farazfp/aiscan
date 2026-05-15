@@ -22,14 +22,14 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "diversity-determinism-bias-and-justice"
-  - "method/computational"
-  - "topic/bias"
-  - "topic/digital-humanities"
-  - "topic/algorithmic-bias"
-  - "topic/explainability"
+  - annotation
+  - ai-and-social
+  - diversity-determinism-bias-and-justice
+  - method-computational
+  - topic-bias
+  - topic-digital-humanities
+  - topic-algorithmic-bias
+  - topic-explainability
 ---
 
 # Bias in Big Data, Machine Learning and AI: What Lessons for the Digital Humanities?

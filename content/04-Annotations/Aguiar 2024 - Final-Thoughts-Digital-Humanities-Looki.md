@@ -27,20 +27,20 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "critical-literacies"
-  - "method/quantitative"
-  - "method/framework-development"
-  - "topic/generative-ai"
-  - "topic/large-language-models"
-  - "topic/digital-humanities"
-  - "topic/hallucination"
-  - "topic/bias"
-  - "topic/provenance"
-  - "stakeholder/researchers"
-  - "region/asia"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - critical-literacies
+  - method-quantitative
+  - method-framework-development
+  - topic-generative-ai
+  - topic-large-language-models
+  - topic-digital-humanities
+  - topic-hallucination
+  - topic-bias
+  - topic-provenance
+  - stakeholder-researchers
+  - region-asia
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Final Thoughts: Digital Humanities Looking at Generative AI

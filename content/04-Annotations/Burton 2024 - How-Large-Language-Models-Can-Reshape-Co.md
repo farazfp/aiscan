@@ -25,19 +25,19 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "platforms"
-  - "method/quantitative"
-  - "method/framework-development"
-  - "method/design-research"
-  - "topic/large-language-models"
-  - "topic/infrastructure"
-  - "topic/epistemic-authority"
-  - "topic/diversity"
-  - "stakeholder/institutions"
-  - "tension/efficiency-v-process"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - platforms
+  - method-quantitative
+  - method-framework-development
+  - method-design-research
+  - topic-large-language-models
+  - topic-infrastructure
+  - topic-epistemic-authority
+  - topic-diversity
+  - stakeholder-institutions
+  - tension-efficiency-v-process
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # How Large Language Models Can Reshape Collective Intelligence

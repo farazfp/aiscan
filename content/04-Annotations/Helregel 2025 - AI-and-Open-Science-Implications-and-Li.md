@@ -28,20 +28,20 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-science"
-  - "topic/open-science"
-  - "topic/transparency"
-  - "topic/infrastructure"
-  - "topic/accessibility"
-  - "topic/reproducibility"
-  - "topic/scholarly-communication"
-  - "stakeholder/researchers"
-  - "stakeholder/institutions"
-  - "stakeholder/communities"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-open
+  - open-science
+  - topic-open-science
+  - topic-transparency
+  - topic-infrastructure
+  - topic-accessibility
+  - topic-reproducibility
+  - topic-scholarly-communication
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # AI and Open Science: Implications and Library Practice Recommendations

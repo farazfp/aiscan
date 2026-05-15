@@ -26,19 +26,19 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "research-methods-and-practices"
-  - "method/literature-review"
-  - "method/quantitative"
-  - "topic/large-language-models"
-  - "topic/automation"
-  - "topic/diversity"
-  - "topic/evaluation"
-  - "topic/training-data"
-  - "stakeholder/researchers"
-  - "stakeholder/communities"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - research-methods-and-practices
+  - method-literature-review
+  - method-quantitative
+  - topic-large-language-models
+  - topic-automation
+  - topic-diversity
+  - topic-evaluation
+  - topic-training-data
+  - stakeholder-researchers
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Title and Abstract Screening for Literature Reviews Using Large Language Models: An Exploratory Study in the Biomedical Domain

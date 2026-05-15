@@ -1,4 +1,5 @@
 ---
+
 title: Organizational Capabilities for AI Implementation—Coping with Inscrutability
   and Data Dependency in AI
 authors:
@@ -30,23 +31,23 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-scholarship
-- infrastructures
-- method/qualitative
-- method/computational
-- method/framework-development
-- topic/governance
-- topic/infrastructure
-- topic/ai-ethics
-- topic/diversity
-- topic/metadata
-- topic/provenance
-- stakeholder/researchers
-- stakeholder/institutions
-- tension/technical-capability-v-organizational-capacity
-- tension/operational-assistance-v-epistemic-authority
-- cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - method-qualitative
+  - method-computational
+  - method-framework-development
+  - topic-governance
+  - topic-infrastructure
+  - topic-ai-ethics
+  - topic-diversity
+  - topic-metadata
+  - topic-provenance
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
+  - cited-in-introduction
 ---
 
 # Organizational Capabilities for AI Implementation—Coping with Inscrutability and Data Dependency in AI

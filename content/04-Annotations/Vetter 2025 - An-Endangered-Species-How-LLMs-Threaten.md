@@ -31,21 +31,21 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "platforms"
-  - "method/qualitative"
-  - "method/framework-development"
-  - "topic/large-language-models"
-  - "topic/transparency"
-  - "topic/explainability"
-  - "topic/bias"
-  - "topic/diversity"
-  - "topic/labour"
-  - "stakeholder/researchers"
-  - "stakeholder/communities"
-  - "region/global-north"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - platforms
+  - method-qualitative
+  - method-framework-development
+  - topic-large-language-models
+  - topic-transparency
+  - topic-explainability
+  - topic-bias
+  - topic-diversity
+  - topic-labour
+  - stakeholder-researchers
+  - stakeholder-communities
+  - region-global-north
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # An Endangered Species: How LLMs Threaten Wikipedia’s Sustainability

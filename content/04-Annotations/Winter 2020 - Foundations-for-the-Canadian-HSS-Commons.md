@@ -1,4 +1,5 @@
 ---
+
 title: "Foundations for the Canadian HSS Commons: Exploring the Possibilities of Digital' Research Communities"
 authors:
 - Winter, C., et al., with ETCL
@@ -20,14 +21,14 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- knowledge-foundations
-- topic/infrastructure
-- topic/governance
-- topic/provenance
-- topic/commons
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - knowledge-foundations
+  - topic-infrastructure
+  - topic-governance
+  - topic-provenance
+  - topic-commons
+  - cited-in-introduction
 ---
 
 # Foundations for the Canadian HSS Commons: Exploring the Possibilities of Digital Research Communities

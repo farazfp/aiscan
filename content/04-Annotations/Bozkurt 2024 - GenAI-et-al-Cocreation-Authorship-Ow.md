@@ -1,4 +1,5 @@
 ---
+
 title: "GenAI et al.: Cocreation, Authorship, Ownership, Academic Ethics and Integrity' in a Time of Generative AI"
 authors:
 - Bozkurt, Aras
@@ -24,19 +25,19 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-scholarship
-- forms-of-research-output
-- method/framework-development
-- topic/generative-ai
-- topic/evaluation
-- topic/large-language-models
-- topic/transparency
-- topic/ai-ethics
-- topic/research-integrity
-- stakeholder/researchers
-- stakeholder/developers
-- cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - forms-of-research-output
+  - method-framework-development
+  - topic-generative-ai
+  - topic-evaluation
+  - topic-large-language-models
+  - topic-transparency
+  - topic-ai-ethics
+  - topic-research-integrity
+  - stakeholder-researchers
+  - stakeholder-developers
+  - cited-in-introduction
 ---
 
 # GenAI et al.: Cocreation, Authorship, Ownership, Academic Ethics and Integrity in a Time of Generative AI

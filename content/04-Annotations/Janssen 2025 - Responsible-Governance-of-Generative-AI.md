@@ -1,4 +1,5 @@
 ---
+
 title: "Responsible Governance of Generative AI: Conceptualizing GenAI as Complex' Adaptive Systems"
 authors:
 - Janssen, Marijn
@@ -28,22 +29,22 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-scholarship
-- infrastructures
-- method/computational
-- topic/governance
-- topic/ai-governance
-- topic/infrastructure
-- topic/generative-ai
-- topic/accountability
-- topic/interoperability
-- stakeholder/institutions
-- stakeholder/communities
-- tension/technical-capability-v-organizational-capacity
-- tension/efficiency-v-process
-- tension/operational-assistance-v-epistemic-authority
-- cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - method-computational
+  - topic-governance
+  - topic-ai-governance
+  - topic-infrastructure
+  - topic-generative-ai
+  - topic-accountability
+  - topic-interoperability
+  - stakeholder-institutions
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
+  - tension-efficiency-v-process
+  - tension-operational-assistance-v-epistemic-authority
+  - cited-in-introduction
 ---
 
 # Responsible Governance of Generative AI: Conceptualizing GenAI as Complex Adaptive Systems

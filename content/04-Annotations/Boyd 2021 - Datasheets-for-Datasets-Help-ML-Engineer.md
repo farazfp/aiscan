@@ -1,4 +1,5 @@
 ---
+
 title: Datasheets for Datasets Help ML Engineers Notice and Understand Ethical Issues
   in Training Data
 authors:
@@ -29,21 +30,21 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-open
-- open-data
-- method/framework-development
-- method/empirical
-- topic/machine-learning
-- topic/infrastructure
-- topic/ai-ethics
-- topic/open-access
-- topic/open-data
-- topic/diversity
-- stakeholder/developers
-- tension/openness-v-enclosure
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - ai-and-open
+  - open-data
+  - method-framework-development
+  - method-empirical
+  - topic-machine-learning
+  - topic-infrastructure
+  - topic-ai-ethics
+  - topic-open-access
+  - topic-open-data
+  - topic-diversity
+  - stakeholder-developers
+  - tension-openness-v-enclosure
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # Datasheets for Datasets Help ML Engineers Notice and Understand Ethical Issues in Training Data

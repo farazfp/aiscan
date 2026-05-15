@@ -26,19 +26,19 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "diversity-determinism-bias-and-justice"
-  - "method/literature-review"
-  - "method/qualitative"
-  - "method/quantitative"
-  - "method/framework-development"
-  - "method/empirical"
-  - "topic/diversity"
-  - "topic/governance"
-  - "topic/evaluation"
-  - "stakeholder/industry"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - diversity-determinism-bias-and-justice
+  - method-literature-review
+  - method-qualitative
+  - method-quantitative
+  - method-framework-development
+  - method-empirical
+  - topic-diversity
+  - topic-governance
+  - topic-evaluation
+  - stakeholder-industry
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # AI and the Quest for Diversity and Inclusion: A Systematic Literature Review

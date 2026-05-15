@@ -23,15 +23,15 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "governance-leadership-and-policy"
-  - "method/design-research"
-  - "topic/governance"
-  - "topic/diversity"
-  - "topic/accessibility"
-  - "tension/efficiency-v-process"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-social
+  - governance-leadership-and-policy
+  - method-design-research
+  - topic-governance
+  - topic-diversity
+  - topic-accessibility
+  - tension-efficiency-v-process
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Democratising AI: Multiple Meanings, Goals, and Methods

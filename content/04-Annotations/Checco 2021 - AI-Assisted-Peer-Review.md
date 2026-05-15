@@ -1,4 +1,5 @@
 ---
+
 title: AI-Assisted Peer Review
 authors:
 - Checco, Alessandro, Lorenzo Bracciale, Pierpaolo Loreti, Stephen Pinfield
@@ -34,23 +35,23 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- ai-and-scholarship
-- service-and-peer-review
-- method/computational
-- method/framework-development
-- method/empirical
-- method/design-research
-- topic/automation
-- topic/evaluation
-- topic/peer-review
-- topic/interoperability
-- topic/epistemic-authority
-- topic/generative-ai
-- stakeholder/institutions
-- tension/operational-assistance-v-epistemic-authority
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - ai-and-scholarship
+  - service-and-peer-review
+  - method-computational
+  - method-framework-development
+  - method-empirical
+  - method-design-research
+  - topic-automation
+  - topic-evaluation
+  - topic-peer-review
+  - topic-interoperability
+  - topic-epistemic-authority
+  - topic-generative-ai
+  - stakeholder-institutions
+  - tension-operational-assistance-v-epistemic-authority
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # AI-Assisted Peer Review

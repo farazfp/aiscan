@@ -20,7 +20,7 @@ tags:
   - openness-vs-enclosure
   - efficiency-vs-process
   - technical-capability
-  - MOC
+  - moc
 domains:
   - Essential Contexts
   - AI and Open

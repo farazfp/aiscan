@@ -23,16 +23,16 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "governance-leadership-and-policy"
-  - "topic/governance"
-  - "topic/interoperability"
-  - "topic/evaluation"
-  - "stakeholder/policymakers"
-  - "stakeholder/communities"
-  - "stakeholder/industry"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - governance-leadership-and-policy
+  - topic-governance
+  - topic-interoperability
+  - topic-evaluation
+  - stakeholder-policymakers
+  - stakeholder-communities
+  - stakeholder-industry
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Soft Ethics and the Governance of the Digital

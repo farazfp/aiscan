@@ -33,27 +33,27 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-science"
-  - "method/qualitative"
-  - "method/quantitative"
-  - "method/framework-development"
-  - "topic/large-language-models"
-  - "topic/infrastructure"
-  - "topic/open-source"
-  - "topic/governance"
-  - "topic/open-science"
-  - "topic/evaluation"
-  - "stakeholder/researchers"
-  - "stakeholder/institutions"
-  - "stakeholder/policymakers"
-  - "stakeholder/communities"
-  - "stakeholder/industry"
-  - "stakeholder/developers"
-  - "region/global"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/openness-v-enclosure"
+  - annotation
+  - ai-and-open
+  - open-science
+  - method-qualitative
+  - method-quantitative
+  - method-framework-development
+  - topic-large-language-models
+  - topic-infrastructure
+  - topic-open-source
+  - topic-governance
+  - topic-open-science
+  - topic-evaluation
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-policymakers
+  - stakeholder-communities
+  - stakeholder-industry
+  - stakeholder-developers
+  - region-global
+  - tension-technical-capability-v-organizational-capacity
+  - tension-openness-v-enclosure
 ---
 
 # A Cartography of Open ation in Open Source AI: Mapping Practices, Motivations, and Governance in 14 Open Large Language Model Projects

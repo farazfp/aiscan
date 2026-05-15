@@ -25,17 +25,17 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "infrastructures"
-  - "topic/intellectual-property"
-  - "topic/ai-ethics"
-  - "topic/surveillance"
-  - "topic/bias"
-  - "topic/interoperability"
-  - "topic/training-data"
-  - "stakeholder/policymakers"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - topic-intellectual-property
+  - topic-ai-ethics
+  - topic-surveillance
+  - topic-bias
+  - topic-interoperability
+  - topic-training-data
+  - stakeholder-policymakers
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Realising Potential, Supporting Users: IFLA Statement on Copyright and Artificial Intelligence

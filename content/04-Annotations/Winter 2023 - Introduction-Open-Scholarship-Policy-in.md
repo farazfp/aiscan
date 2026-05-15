@@ -1,4 +1,5 @@
 ---
+
 title: "Introduction: Open Scholarship Policy in Focus"
 authors:
   - "Winter, C"
@@ -20,13 +21,13 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-- cited-in-introduction
-  - "annotation"
-  - "essential-contexts"
-  - "knowledge-foundations"
-  - "topic/accountability"
-  - "topic/provenance"
-  - "stakeholder/communities"
+  - cited-in-introduction
+  - annotation
+  - essential-contexts
+  - knowledge-foundations
+  - topic-accountability
+  - topic-provenance
+  - stakeholder-communities
 ---
 
 # Introduction: Open Scholarship Policy in Focus

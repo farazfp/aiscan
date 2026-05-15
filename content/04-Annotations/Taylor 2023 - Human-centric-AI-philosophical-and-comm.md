@@ -23,17 +23,17 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "community-connection-and-the-human"
-  - "method/computational"
-  - "method/framework-development"
-  - "topic/participation"
-  - "stakeholder/publishers"
-  - "stakeholder/communities"
-  - "stakeholder/industry"
-  - "region/global-south"
-  - "region/africa"
+  - annotation
+  - ai-and-social
+  - community-connection-and-the-human
+  - method-computational
+  - method-framework-development
+  - topic-participation
+  - stakeholder-publishers
+  - stakeholder-communities
+  - stakeholder-industry
+  - region-global-south
+  - region-africa
 ---
 
 # Human-centric AI: philosophical and community-centric considerations

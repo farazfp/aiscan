@@ -25,17 +25,17 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "human-labour-and-environmental-costs"
-  - "method/quantitative"
-  - "method/framework-development"
-  - "topic/large-language-models"
-  - "topic/automation"
-  - "topic/labour"
-  - "topic/evaluation"
-  - "topic/bias"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-social
+  - human-labour-and-environmental-costs
+  - method-quantitative
+  - method-framework-development
+  - topic-large-language-models
+  - topic-automation
+  - topic-labour
+  - topic-evaluation
+  - topic-bias
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # GPTs are GPTs:  market impact potential of LLMs

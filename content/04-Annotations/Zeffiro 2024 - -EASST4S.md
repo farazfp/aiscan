@@ -1,4 +1,5 @@
 ---
+
 title: ', EASST/4S)'
 authors:
 - 'Zeffiro, A. (McMaster University) Automating (in)securities: cybersecurity’s AI
@@ -31,23 +32,23 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- histories-and-theories-of-ai
-- method/case-study
-- method/computational
-- topic/automation
-- topic/infrastructure
-- topic/epistemic-authority
-- topic/generative-ai
-- topic/accountability
-- topic/bias
-- stakeholder/institutions
-- stakeholder/industry
-- tension/technical-capability-v-organizational-capacity
-- tension/operational-assistance-v-epistemic-authority
-- tension/efficiency-v-process
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - histories-and-theories-of-ai
+  - method-case-study
+  - method-computational
+  - topic-automation
+  - topic-infrastructure
+  - topic-epistemic-authority
+  - topic-generative-ai
+  - topic-accountability
+  - topic-bias
+  - stakeholder-institutions
+  - stakeholder-industry
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
+  - tension-efficiency-v-process
+  - cited-in-introduction
 ---
 
 # , EASST/4S)

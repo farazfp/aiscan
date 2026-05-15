@@ -27,19 +27,19 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "platforms"
-  - "method/qualitative"
-  - "method/computational"
-  - "method/framework-development"
-  - "method/theoretical"
-  - "topic/transparency"
-  - "topic/governance"
-  - "topic/infrastructure"
-  - "topic/trust"
-  - "stakeholder/publishers"
-  - "stakeholder/communities"
+  - annotation
+  - ai-and-social
+  - platforms
+  - method-qualitative
+  - method-computational
+  - method-framework-development
+  - method-theoretical
+  - topic-transparency
+  - topic-governance
+  - topic-infrastructure
+  - topic-trust
+  - stakeholder-publishers
+  - stakeholder-communities
 ---
 
 # “What are you doing, TikTok?

@@ -23,16 +23,16 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "human-labour-and-environmental-costs"
-  - "method/quantitative"
-  - "method/comparative"
-  - "topic/large-language-models"
-  - "topic/hallucination"
-  - "topic/misinformation"
-  - "region/global"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-social
+  - human-labour-and-environmental-costs
+  - method-quantitative
+  - method-comparative
+  - topic-large-language-models
+  - topic-hallucination
+  - topic-misinformation
+  - region-global
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Effects of LLM-based Search on Decision Making: Speed, Accuracy, and Overreliance

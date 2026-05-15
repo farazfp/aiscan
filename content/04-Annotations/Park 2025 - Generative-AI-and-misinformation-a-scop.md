@@ -27,19 +27,19 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-social"
-  - "human-labour-and-environmental-costs"
-  - "method/literature-review"
-  - "method/quantitative"
-  - "method/framework-development"
-  - "method/empirical"
-  - "topic/large-language-models"
-  - "topic/misinformation"
-  - "topic/generative-ai"
-  - "topic/hallucination"
-  - "topic/interoperability"
-  - "stakeholder/researchers"
+  - annotation
+  - ai-and-social
+  - human-labour-and-environmental-costs
+  - method-literature-review
+  - method-quantitative
+  - method-framework-development
+  - method-empirical
+  - topic-large-language-models
+  - topic-misinformation
+  - topic-generative-ai
+  - topic-hallucination
+  - topic-interoperability
+  - stakeholder-researchers
 ---
 
 # Generative AI and misinformation: a scoping review of the role of generative AI in the generation, detection, mitigation, and impact of misinformation

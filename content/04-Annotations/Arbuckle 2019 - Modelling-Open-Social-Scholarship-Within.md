@@ -1,4 +1,5 @@
 ---
+
 title: Modelling Open Social Scholarship Within the INKE Community
 authors:
 - Arbuckle, A
@@ -26,20 +27,20 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- open-social-scholarship
-- method/design-research
-- topic/infrastructure
-- topic/scholarly-communication
-- topic/open-access
-- topic/governance
-- topic/transparency
-- topic/participation
-- stakeholder/researchers
-- stakeholder/communities
-- tension/openness-v-enclosure
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - open-social-scholarship
+  - method-design-research
+  - topic-infrastructure
+  - topic-scholarly-communication
+  - topic-open-access
+  - topic-governance
+  - topic-transparency
+  - topic-participation
+  - stakeholder-researchers
+  - stakeholder-communities
+  - tension-openness-v-enclosure
+  - cited-in-introduction
 ---
 
 # Modelling Open Social Scholarship Within the INKE Community

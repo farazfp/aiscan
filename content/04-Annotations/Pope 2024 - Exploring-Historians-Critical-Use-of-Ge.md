@@ -25,18 +25,18 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "teaching-and-pedagogy"
-  - "method/qualitative"
-  - "method/quantitative"
-  - "topic/research-integrity"
-  - "topic/generative-ai"
-  - "topic/scholarly-communication"
-  - "topic/evaluation"
-  - "stakeholder/researchers"
-  - "stakeholder/students"
-  - "tension/technical-capability-v-organizational-capacity"
+  - annotation
+  - ai-and-scholarship
+  - teaching-and-pedagogy
+  - method-qualitative
+  - method-quantitative
+  - topic-research-integrity
+  - topic-generative-ai
+  - topic-scholarly-communication
+  - topic-evaluation
+  - stakeholder-researchers
+  - stakeholder-students
+  - tension-technical-capability-v-organizational-capacity
 ---
 
 # Exploring Historians’ Critical Use of Generative AI Technologies for History Education

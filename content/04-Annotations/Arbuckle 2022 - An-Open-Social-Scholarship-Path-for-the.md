@@ -1,4 +1,5 @@
 ---
+
 title: An Open Social Scholarship Path for the Humanities
 authors:
 - Arbuckle, A., Siemens, R., Bath, J., Crompton, C., Estill, L., Niemann, T., Saklofske,
@@ -23,16 +24,16 @@ status: reviewed
 type: annotation
 created: '2026-05-14'
 tags:
-- annotation
-- essential-contexts
-- open-social-scholarship
-- topic/infrastructure
-- topic/open-scholarship
-- topic/evaluation
-- stakeholder/researchers
-- stakeholder/communities
-- tension/technical-capability-v-organizational-capacity
-- cited-in-introduction
+  - annotation
+  - essential-contexts
+  - open-social-scholarship
+  - topic-infrastructure
+  - topic-open-scholarship
+  - topic-evaluation
+  - stakeholder-researchers
+  - stakeholder-communities
+  - tension-technical-capability-v-organizational-capacity
+  - cited-in-introduction
 ---
 
 # An Open Social Scholarship Path for the Humanities

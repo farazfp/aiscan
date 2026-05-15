@@ -20,12 +20,12 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "infrastructures"
-  - "topic/infrastructure"
-  - "stakeholder/institutions"
-  - "stakeholder/publishers"
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - topic-infrastructure
+  - stakeholder-institutions
+  - stakeholder-publishers
 ---
 
 # The Challenges of AI Preservation

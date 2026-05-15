@@ -33,21 +33,21 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-open"
-  - "open-science"
-  - "topic/generative-ai"
-  - "topic/open-science"
-  - "topic/evaluation"
-  - "topic/infrastructure"
-  - "topic/open-access"
-  - "topic/open-source"
-  - "stakeholder/researchers"
-  - "stakeholder/institutions"
-  - "stakeholder/publishers"
-  - "tension/openness-v-enclosure"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-open
+  - open-science
+  - topic-generative-ai
+  - topic-open-science
+  - topic-evaluation
+  - topic-infrastructure
+  - topic-open-access
+  - topic-open-source
+  - stakeholder-researchers
+  - stakeholder-institutions
+  - stakeholder-publishers
+  - tension-openness-v-enclosure
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Open Science at the generative AI turn: An exploratory analysis of challenges and opportunities

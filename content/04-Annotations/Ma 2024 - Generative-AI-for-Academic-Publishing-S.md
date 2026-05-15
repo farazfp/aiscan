@@ -37,24 +37,24 @@ status: "reviewed"
 type: "annotation"
 created: "2026-05-14"
 tags:
-  - "annotation"
-  - "ai-and-scholarship"
-  - "infrastructures"
-  - "method/case-study"
-  - "method/framework-development"
-  - "method/critical-analysis"
-  - "topic/diversity"
-  - "topic/epistemic-authority"
-  - "topic/scholarly-communication"
-  - "topic/training-data"
-  - "topic/epistemic-justice"
-  - "topic/knowledge-production"
-  - "stakeholder/researchers"
-  - "stakeholder/communities"
-  - "region/global-north"
-  - "tension/efficiency-v-process"
-  - "tension/technical-capability-v-organizational-capacity"
-  - "tension/operational-assistance-v-epistemic-authority"
+  - annotation
+  - ai-and-scholarship
+  - infrastructures
+  - method-case-study
+  - method-framework-development
+  - method-critical-analysis
+  - topic-diversity
+  - topic-epistemic-authority
+  - topic-scholarly-communication
+  - topic-training-data
+  - topic-epistemic-justice
+  - topic-knowledge-production
+  - stakeholder-researchers
+  - stakeholder-communities
+  - region-global-north
+  - tension-efficiency-v-process
+  - tension-technical-capability-v-organizational-capacity
+  - tension-operational-assistance-v-epistemic-authority
 ---
 
 # Generative AI for Academic Publishing? Some Thoughts About Epistemic Diversity and the Pursuit of Truth
