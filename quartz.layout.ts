@@ -43,14 +43,10 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph({
   localGraph: {
-    fontSize: 0.4,        // smaller labels (default is 0.6)
-    repelForce: 2,        // push nodes further apart
-    linkDistance: 40,     // increase spacing between connected nodes
+    fontSize: 0.5,        // smaller labels (default is 0.6)
   },
   globalGraph: {
-    fontSize: 0.3,        // even smaller for the dense global view
-    repelForce: 2.5,
-    linkDistance: 50,
+    fontSize: 0.5,        // even smaller for the dense global view
   },
 }),
     Component.DesktopOnly(Component.TableOfContents()),
