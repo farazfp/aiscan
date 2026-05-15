@@ -44,14 +44,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph({
   localGraph: {
     fontSize: 0.4,        // smaller labels (default is 0.6)
-    opacityScale: 3,      // labels only appear when zoomed in (higher = more aggressive fade)
+    opacityScale: 4,      // labels only appear when zoomed in (higher = more aggressive fade)
     repelForce: 2,        // push nodes further apart
     linkDistance: 40,     // increase spacing between connected nodes
     showTags: false,      // removes tag nodes that add a lot of clutter
   },
   globalGraph: {
     fontSize: 0.3,        // even smaller for the dense global view
-    opacityScale: 4,      // labels almost invisible until zoomed
+    opacityScale: 5,      // labels almost invisible until zoomed
     repelForce: 2.5,
     linkDistance: 50,
     showTags: false,
